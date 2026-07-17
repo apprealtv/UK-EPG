@@ -1,0 +1,37 @@
+name: Update EPG XML
+
+on:
+  # Runs at 6:00 AM UTC (which is 8:00 AM South Africa Standard Time)
+  schedule:
+    - cron: '0 6 * * *'
+  # Allows you to manually run it from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  download-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This allows the bot to push changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download compressed EPG file
+        run: |
+          curl -L -o epg_ripper_UK1.xml.gz \
+            "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+
+      - name: Unzip the file
+        run: |
+          gunzip -c epg_ripper_UK1.xml.gz > epg_ripper_UK1.xml
+
+      - name: Commit and push if changes exist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg_ripper_UK1.xml
+          git commit -m "Automated EPG update $(date -u +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push

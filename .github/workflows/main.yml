@@ -1,23 +1,19 @@
 name: Update EPG XML
 
 on:
-  # Runs at 6:00 AM UTC (which is 8:00 AM South Africa Standard Time)
   schedule:
     - cron: '0 6 * * *'
-  # Allows you to manually run it from the Actions tab
   workflow_dispatch:
 
 jobs:
   download-and-commit:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # This allows the bot to push changes
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download compressed EPG file
         run: |
@@ -27,6 +23,9 @@ jobs:
       - name: Unzip the file
         run: |
           gunzip -c epg_ripper_UK1.xml.gz > epg_ripper_UK1.xml
+
+      - name: Filter to selected channels
+        run: python3 filter_epg.py
 
       - name: Commit and push if changes exist
         run: |

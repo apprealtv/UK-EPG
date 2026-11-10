@@ -1,0 +1,471 @@
+[
+  {
+    "id": "cust_itv1_uk",
+    "name": "ITV 1 UK",
+    "streamUrl": "https://live.tvnow247.today/live/350/index.m3u8?v=1&e=1794222441&k=d34550b70794c48df67e8b4ca2531701&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_itv2_uk",
+    "name": "ITV 2 UK",
+    "streamUrl": "https://live.tvnow247.today/live/351/index.m3u8?v=1&e=1794223206&k=42fdd513e7ccc710392ada958b064618&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_itv3_uk",
+    "name": "ITV 3 UK",
+    "streamUrl": "https://live.tvnow247.today/live/352/index.m3u8?v=1&e=1794223263&k=24e753ed00f657a3689ed75902ba5fa0&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_itv4_uk",
+    "name": "ITV 4 UK",
+    "streamUrl": "https://live.tvnow247.today/live/353/index.m3u8?v=1&e=1794223321&k=05459fe07a317f494474b32742498680&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_action_uk",
+    "name": "Sky Sports Action UK",
+    "streamUrl": "https://live.tvnow247.today/live/37/index.m3u8?v=1&e=1794223478&k=439e89ff00f0cfbd38f160d45a7ff036&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_cricket_uk",
+    "name": "Sky Sports Cricket",
+    "streamUrl": "https://live.tvnow247.today/live/65/index.m3u8?v=1&e=1794223542&k=c701b4e23f40a2ff5050342c512e1f34&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_f1_uk",
+    "name": "Sky Sports F1 UK",
+    "streamUrl": "https://live.tvnow247.today/live/577/index.m3u8?v=1&e=1794223612&k=14fbaed256ac3ce7667e3678bfe3ca6a&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_football_uk",
+    "name": "Sky Sports Football UK",
+    "streamUrl": "https://live.tvnow247.today/live/35/index.m3u8?v=1&e=1794223717&k=3e183c0e5f84d851dac6b79d629f7354&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_golf_uk",
+    "name": "Sky Sports Golf UK",
+    "streamUrl": "https://live.tvnow247.today/live/70/index.m3u8?v=1&e=1794223796&k=56865424ecde950999383c655e68c6c7&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_main_event_uk",
+    "name": "Sky Sports Main Event",
+    "streamUrl": "https://live.tvnow247.today/live/38/index.m3u8?v=1&e=1794223841&k=0adb79a1c338c4c91d2e33884296f382&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_mix_uk",
+    "name": "Sky Sports Mix UK",
+    "streamUrl": "https://live.tvnow247.today/live/449/index.m3u8?v=1&e=1794223896&k=04abb25f09f3d40e7c9f4e1cdf41b1f1&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_news_uk",
+    "name": "Sky Sports News UK",
+    "streamUrl": "https://live.tvnow247.today/live/366/index.m3u8?v=1&e=1794223956&k=16b8c4066dd87c4ee0f69b2a890eacc9&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_premier_league_uk",
+    "name": "SKY SPORTS PREMIER LEAGUE",
+    "streamUrl": "https://live.tvnow247.today/live/130/index.m3u8?v=1&e=1794224004&k=d685e55e1134bbf49d55d94594f4b6c2&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_racing_uk",
+    "name": "SKY SPORTS RACING UK",
+    "streamUrl": "https://live.tvnow247.today/live/554/index.m3u8?v=1&e=1794224062&k=ceedc696898af1e96e545031c3669698&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_tennis_uk",
+    "name": "SKY SPORTS TENNIS UK",
+    "streamUrl": "https://live.tvnow247.today/live/46/index.m3u8?v=1&e=1794224156&k=12c933090d8c3e9e41bf644ae95f2e28&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sports_plus_uk",
+    "name": "SKY SPORTS+ PLUS",
+    "streamUrl": "https://live.tvnow247.today/live/36/index.m3u8?v=1&e=1794224233&k=9b638f8cc20eff1238a65c5174004d0c&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_tnt_sports_1_uk",
+    "name": "TNT SPORTS 1 UK",
+    "streamUrl": "https://live.tvnow247.today/live/31/index.m3u8?v=1&e=1794224302&k=6c4260197a420cd514be4f11e5854db6&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_tnt_sports_2_uk",
+    "name": "TNT SPORTS 2 UK",
+    "streamUrl": "https://live.tvnow247.today/live/32/index.m3u8?v=1&e=1794224368&k=d8d44ae04cc03497d15960867ec5dc90&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_tnt_sports_3_uk",
+    "name": "TNT SPORTS 3 UK",
+    "streamUrl": "https://live.tvnow247.today/live/33/index.m3u8?v=1&e=1794224420&k=cbd531ee08edb25ac67734e5ea8a23af&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_tnt_sports_4_uk",
+    "name": "TNT SPORTS 4 UK",
+    "streamUrl": "https://live.tvnow247.today/live/34/index.m3u8?v=1&e=1794224471&k=953ca2fa42106936571c8339b51688dd&src=r2",
+    "logo": "",
+    "category": "UK"
+  },
+  {
+    "id": "cust_sky_sport_1_nz",
+    "name": "Sky Sport 1 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/588/index.m3u8?v=1&e=1794224540&k=0e00cd7935128a328680b17284107f0a&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_2_nz",
+    "name": "Sky Sport 2 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/589/index.m3u8?v=1&e=1794224580&k=2fbacb97d6db48902642f721fcabcc02&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_3_nz",
+    "name": "Sky Sport 3 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/590/index.m3u8?v=1&e=1794224620&k=35b13a5840e79eb36aef2aff863c7942&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_4_nz",
+    "name": "Sky Sport 4 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/591/index.m3u8?v=1&e=1794224658&k=fdd779ec9ed7e0cfa8ddc12b982f1f4f&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_5_nz",
+    "name": "Sky Sport 5 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/592/index.m3u8?v=1&e=1794224710&k=1081b9256b16ca85874bde82bf7d3af7&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_6_nz",
+    "name": "Sky Sport 6 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/593/index.m3u8?v=1&e=1794224754&k=e378963af0d41f04f372be0e1819ef72&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_7_nz",
+    "name": "Sky Sport 7 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/594/index.m3u8?v=1&e=1794224803&k=f56a20fda24f0b0e4f683f70af990280&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_8_nz",
+    "name": "Sky Sport 8 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/595/index.m3u8?v=1&e=1794224848&k=c6e40597fcfce34aa467976b79e33e0e&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_9_nz",
+    "name": "Sky Sport 9 NZ",
+    "streamUrl": "https://live.tvnow247.today/live/596/index.m3u8?v=1&e=1794224880&k=f61dd653fd2be0d84f59917f00e1e741&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_sky_sport_select_nz",
+    "name": "Sky Sport Select NZ",
+    "streamUrl": "https://live.tvnow247.today/live/587/index.m3u8?v=1&e=1794224929&k=c2eb90ffd267663b56cbbc4ed7addda6&src=r2",
+    "logo": "",
+    "category": "NZ"
+  },
+  {
+    "id": "cust_africanews",
+    "name": "Africanews",
+    "streamUrl": "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8",
+    "logo": "",
+    "category": "International"
+  },
+  {
+    "id": "cust_aljazeera",
+    "name": "Al Jazeera",
+    "streamUrl": "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_bbcearth",
+    "name": "BBC Earth",
+    "streamUrl": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "logo": "",
+    "category": "Documentary"
+  },
+  {
+    "id": "cust_bbcworld",
+    "name": "BBC World News",
+    "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_1kzn",
+    "name": "1KZN",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Local"
+  },
+  {
+    "id": "cust_bet",
+    "name": "BET",
+    "streamUrl": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BHD.png",
+    "category": "Entertainment"
+  },
+  {
+    "id": "cust_bloomberg",
+    "name": "Bloomberg Television",
+    "streamUrl": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_capetown",
+    "name": "Cape Town TV",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Local"
+  },
+  {
+    "id": "cust_cgtn",
+    "name": "CGTN News",
+    "streamUrl": "https://0472.org/hls/cgtn.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_cnbca",
+    "name": "CNBC Africa",
+    "streamUrl": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_daystar",
+    "name": "Day Star",
+    "streamUrl": "https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/ApFvejWjRVUzPbyYzS8d9g/1776816000/master_mpegts.m3u8",
+    "logo": "",
+    "category": "Religious"
+  },
+  {
+    "id": "cust_disney",
+    "name": "Disney Channel",
+    "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
+    "category": "Kids"
+  },
+  {
+    "id": "cust_euronews",
+    "name": "EuroNews Africa",
+    "streamUrl": "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_faith",
+    "name": "FAITH",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Religious"
+  },
+  {
+    "id": "cust_moonbug",
+    "name": "Moonbug",
+    "streamUrl": "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+    "logo": "",
+    "category": "Kids"
+  },
+  {
+    "id": "cust_natgeowild",
+    "name": "NatGeo Wild",
+    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
+    "logo": "",
+    "category": "Documentary"
+  },
+  {
+    "id": "cust_natgeo",
+    "name": "National Geographic Channel",
+    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
+    "logo": "",
+    "category": "Documentary"
+  },
+  {
+    "id": "cust_ndtv",
+    "name": "NDTV 24x7",
+    "streamUrl": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_nhk",
+    "name": "NHK",
+    "streamUrl": "https://nhk.lls.pbs.org/index.m3u8",
+    "logo": "",
+    "category": "International"
+  },
+  {
+    "id": "cust_rt",
+    "name": "Russia Today",
+    "streamUrl": "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_sabc1",
+    "name": "SABC 1 HD",
+    "streamUrl": "https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8",
+    "logo": "",
+    "category": "Local"
+  },
+  {
+    "id": "cust_sabc2",
+    "name": "SABC 2 HD",
+    "streamUrl": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
+    "logo": "",
+    "category": "Local"
+  },
+  {
+    "id": "cust_sabcnews",
+    "name": "SABC News",
+    "streamUrl": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+    "logo": "",
+    "category": "News"
+  },
+  {
+    "id": "cust_soweto",
+    "name": "Soweto TV",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Local"
+  },
+  {
+    "id": "cust_supersport",
+    "name": "SuperSport School HD",
+    "streamUrl": "https://sabctretasch.cdn.mangomolo.com/ssch/smil:ssch.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8",
+    "logo": "",
+    "category": "Sports"
+  },
+  {
+    "id": "cust_tracegospel",
+    "name": "Trace Gospel",
+    "streamUrl": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
+    "logo": "",
+    "category": "Music"
+  },
+  {
+    "id": "cust_tracengoma",
+    "name": "Trace Ngoma",
+    "streamUrl": "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8",
+    "logo": "",
+    "category": "Music"
+  },
+  {
+    "id": "cust_traceurban",
+    "name": "TRACE URBAN",
+    "streamUrl": "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8",
+    "logo": "",
+    "category": "Music"
+  },
+  {
+    "id": "cust_tshwane",
+    "name": "Tshwane TV",
+    "streamUrl": "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8",
+    "logo": "",
+    "category": "Local"
+  },
+  {
+    "id": "cust_tv5monde",
+    "name": "TV5 Monde Afrique",
+    "streamUrl": "http://5.9.121.178/tv5monde/index.m3u8",
+    "logo": "",
+    "category": "International"
+  },
+  {
+    "id": "cust_wildearth",
+    "name": "WildEarth",
+    "streamUrl": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+    "logo": "",
+    "category": "Documentary"
+  },
+  {
+    "id": "dstv_mnet",
+    "name": "M-Net",
+    "streamUrl": "https://live.tvnow247.today/live/827/index.m3u8?v=1&e=1794218662&k=ce44367e35179e4ede99d5e7d47be46b&src=r2",
+    "logo": "https://bobtv.co.za/logos/5b742d29f0e8.png",
+    "category": "Mzansi"
+  },
+  {
+    "id": "dstv_ssfootballplus",
+    "name": "SS Football Plus",
+    "streamUrl": "https://live.tvnow247.today/live/419/index.m3u8?v=1&e=1794219215&k=5e092ef14317d1c9e93d5bed1f68958c&src=r2",
+    "logo": "https://bobtv.co.za/logos/f1b354baccd0.png",
+    "category": "Sports"
+  },
+  {
+    "id": "dstv_ssrugby",
+    "name": "SS Rugby",
+    "streamUrl": "https://live.tvnow247.today/live/421/index.m3u8?v=1&e=1794217977&k=a962659b55359c0a6ca5173e19c9a4fe&src=r2",
+    "logo": "https://bobtv.co.za/logos/974ed1f05aee.png",
+    "category": "Sports"
+  },
+  {
+    "id": "dstv_ssmotorsport",
+    "name": "SS Motorsport",
+    "streamUrl": "https://live.tvnow247.today/live/424/index.m3u8?v=1&e=1794219503&k=e21c0409f48c8817ada152f6bd002758&src=r2",
+    "logo": "https://bobtv.co.za/logos/0e5f7c6d9a2b.png",
+    "category": "Sports"
+  },
+  {
+    "id": "dstv_ssaction",
+    "name": "SS Action",
+    "streamUrl": "https://live.tvnow247.today/live/420/index.m3u8?v=1&e=1794219072&k=36f9ca675ea1d18da14373c1c5f3eb14&src=r2",
+    "logo": "https://bobtv.co.za/logos/0e5f7c6d9a2b.png",
+    "category": "Sports"
+  },
+  {
+    "id": "dstv_kyknetkie",
+    "name": "kykNET & Kie",
+    "streamUrl": "https://live.tvnow247.today/live/828/index.m3u8?v=1&e=1794218540&k=0636a9f1fe3b7f7174ec84dff8845100&src=r2",
+    "logo": "https://bobtv.co.za/logos/0f2492cb0414.png",
+    "category": "Mzansi"
+  }
+]

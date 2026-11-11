@@ -87,25 +87,5 @@
   { "channel_id": "133.dstv_com", "name": "Novelas", "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/98432.m3u8", "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/630.png", "category": "Mzansi" },
   { "channel_id": "122.dstv_com", "name": "Comedy Central", "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/118027.m3u8", "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/C33.png", "category": "Mzansi" },
   { "channel_id": "117.dstv_com", "name": "Universal TV", "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/118023.m3u8", "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/UHD.png", "category": "Mzansi" }
-  {
-    "id": "",
-    "name": "",
-    "streamUrl": "",
-    "logo": "",
-    "category": "",
-  },
-  {
-    "id": "",
-    "name": "",
-    "streamUrl": "",
-    "logo": "",
-    "category": "",
-  },
-  {
-    "id": "",
-    "name": "",
-    "streamUrl": "",
-    "logo": "",
-    "category": "",
-  },
+  
 ]

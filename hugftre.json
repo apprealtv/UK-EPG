@@ -441,6 +441,13 @@
     "category": "Mzansi"
   },
   {
+    "channel_id": "161.dstv_com",
+    "name": "Mzansi Magic",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391811.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZH.png",
+    "category": "Mzansi"
+  },
+  {
     "channel_id": "133.dstv_com",
     "name": "Novelas",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/98432.m3u8",

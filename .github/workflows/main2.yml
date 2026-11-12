@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
-"""
-Validate only DStv channels (channel_id ends with '.dstv_com') in hugftre.json.
-- Removes DStv channels whose streamUrl fails.
-- Keeps working DStv channels.
-- Leaves all other channels (UK, NZ, etc.) completely untouched.
-- Stores removed DStv entries in known_dead.json so they can be re-added if they recover.
-"""
+
+
 import json
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed

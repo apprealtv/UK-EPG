@@ -28,6 +28,20 @@
     "category": "Religious"
   },
   {
+    "channel_id": "108.dstv_com",
+    "name": "M Legends",
+    "streamUrl": "http://ashmedia.site:2052/live/aJEh5R2j/hpMqTSd/418651.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "200.dstv_com",
+    "name": "SS Blitz",
+    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/122025/play.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",
+    "category": "Sports"
+  },
+  {
     "channel_id": "191.dstv_com",
     "name": "SABC 1 HD",
     "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121929/play.m3u8",
@@ -42,20 +56,6 @@
     "category": "Local"
   },
   {
-    "channel_id": "108.dstv_com",
-    "name": "M Legends",
-    "streamUrl": "http://ashmedia.site:2052/live/aJEh5R2j/hpMqTSd/418651.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "144.dstv_com",
-    "name": "KykNet",
-    "streamUrl": "http://ashmedia.site:2052/live/aJEh5R2j/hpMqTSd/418535.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KHD.png",
-    "category": "Mzansi"
-  },
-  {
     "channel_id": "202.dstv_com",
     "name": "SS PSL",
     "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121957/play.m3u8",
@@ -63,24 +63,10 @@
     "category": "Sports"
   },
   {
-    "channel_id": "208.dstv_com",
-    "name": "SS Africa",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102645.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/34S.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "207.dstv_com",
-    "name": "SS Kickoff",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102646.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "200.dstv_com",
-    "name": "SS Blitz",
-    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/122025/play.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",
-    "category": "Sports"
+    "channel_id": "144.dstv_com",
+    "name": "KykNet",
+    "streamUrl": "http://ashmedia.site:2052/live/aJEh5R2j/hpMqTSd/418535.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KHD.png",
+    "category": "Mzansi"
   }
 ]

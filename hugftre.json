@@ -476,13 +476,6 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "122.dstv_com",
-    "name": "Comedy Central",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/118027.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/C33.png",
-    "category": "Mzansi"
-  },
-  {
     "channel_id": "209.dstv_com",
     "name": "SS Action",
     "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535549.m3u8",
@@ -546,10 +539,10 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "208.dstv_com",
-    "name": "SS Africa",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102645.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/34S.png",
+    "channel_id": "207.dstv_com",
+    "name": "SS Kickoff",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102646.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png",
     "category": "Sports"
   }
 ]

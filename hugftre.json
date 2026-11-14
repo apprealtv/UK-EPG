@@ -504,13 +504,6 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "157.dstv_com",
-    "name": "Moja Love",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391810.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MOH.png",
-    "category": "Mzansi"
-  },
-  {
     "channel_id": "403.dstv_com",
     "name": "eNCA",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391863.m3u8",

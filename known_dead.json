@@ -1,10 +1,10 @@
 [
   {
-    "channel_id": "181.dstv_com",
-    "name": "National Geographic Channel",
-    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
-    "category": "Documentary"
+    "channel_id": "303.dstv_com",
+    "name": "Disney Channel",
+    "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
+    "category": "Kids"
   },
   {
     "channel_id": "182.dstv_com",
@@ -14,11 +14,11 @@
     "category": "Documentary"
   },
   {
-    "channel_id": "303.dstv_com",
-    "name": "Disney Channel",
-    "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
-    "category": "Kids"
+    "channel_id": "181.dstv_com",
+    "name": "National Geographic Channel",
+    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
+    "category": "Documentary"
   },
   {
     "channel_id": "342.dstv_com",
@@ -35,6 +35,13 @@
     "category": "Local"
   },
   {
+    "channel_id": "200.dstv_com",
+    "name": "SS Blitz",
+    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/122025/play.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",
+    "category": "Sports"
+  },
+  {
     "channel_id": "202.dstv_com",
     "name": "SS PSL",
     "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121957/play.m3u8",
@@ -47,20 +54,6 @@
     "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121966/play.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B2C.png",
     "category": "Local"
-  },
-  {
-    "channel_id": "200.dstv_com",
-    "name": "SS Blitz",
-    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/122025/play.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "206.dstv_com",
-    "name": "SS Football Plus",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102644.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png",
-    "category": "Sports"
   },
   {
     "channel_id": "108.dstv_com",

@@ -1,10 +1,10 @@
 [
   {
-    "channel_id": "303.dstv_com",
-    "name": "Disney Channel",
-    "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
-    "category": "Kids"
+    "channel_id": "181.dstv_com",
+    "name": "National Geographic Channel",
+    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
+    "category": "Documentary"
   },
   {
     "channel_id": "182.dstv_com",
@@ -14,11 +14,11 @@
     "category": "Documentary"
   },
   {
-    "channel_id": "181.dstv_com",
-    "name": "National Geographic Channel",
-    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
-    "category": "Documentary"
+    "channel_id": "303.dstv_com",
+    "name": "Disney Channel",
+    "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
+    "category": "Kids"
   },
   {
     "channel_id": "342.dstv_com",
@@ -28,31 +28,24 @@
     "category": "Religious"
   },
   {
-    "channel_id": "101.dstv_com",
-    "name": "M-Net",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/391774.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png",
-    "category": "Mzansi"
+    "channel_id": "191.dstv_com",
+    "name": "SABC 1 HD",
+    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121929/play.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B1C.png",
+    "category": "Local"
   },
   {
-    "channel_id": "161.dstv_com",
-    "name": "Mzansi Magic",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391811.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZH.png",
-    "category": "Mzansi"
+    "channel_id": "202.dstv_com",
+    "name": "SS PSL",
+    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121957/play.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png",
+    "category": "Sports"
   },
   {
     "channel_id": "192.dstv_com",
     "name": "SABC 2 HD",
     "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121966/play.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B2C.png",
-    "category": "Local"
-  },
-  {
-    "channel_id": "191.dstv_com",
-    "name": "SABC 1 HD",
-    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121929/play.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B1C.png",
     "category": "Local"
   },
   {
@@ -63,18 +56,18 @@
     "category": "Sports"
   },
   {
+    "channel_id": "206.dstv_com",
+    "name": "SS Football Plus",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102644.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png",
+    "category": "Sports"
+  },
+  {
     "channel_id": "108.dstv_com",
     "name": "M Legends",
     "streamUrl": "http://ashmedia.site:2052/live/aJEh5R2j/hpMqTSd/418651.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png",
     "category": "Mzansi"
-  },
-  {
-    "channel_id": "202.dstv_com",
-    "name": "SS PSL",
-    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121957/play.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png",
-    "category": "Sports"
   },
   {
     "channel_id": "144.dstv_com",

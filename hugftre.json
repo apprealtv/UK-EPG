@@ -385,13 +385,6 @@
     "category": "Documentary"
   },
   {
-    "channel_id": "101.dstv_com",
-    "name": "M-Net",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/391774.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png",
-    "category": "Mzansi"
-  },
-  {
     "channel_id": "107.dstv_com",
     "name": "M Stars",
     "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734834.m3u8",
@@ -431,13 +424,6 @@
     "name": "kykNET & Kie",
     "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391802.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K30.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "161.dstv_com",
-    "name": "Mzansi Magic",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391811.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZH.png",
     "category": "Mzansi"
   },
   {
@@ -550,6 +536,13 @@
     "name": "Comedy Central",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/118027.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/C33.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "157.dstv_com",
+    "name": "Moja Love",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391810.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MOH.png",
     "category": "Mzansi"
   }
 ]

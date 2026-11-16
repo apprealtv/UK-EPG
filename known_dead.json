@@ -1,17 +1,17 @@
 [
   {
-    "channel_id": "182.dstv_com",
-    "name": "NatGeo Wild",
-    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
-    "category": "Documentary"
-  },
-  {
     "channel_id": "303.dstv_com",
     "name": "Disney Channel",
     "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
     "category": "Kids"
+  },
+  {
+    "channel_id": "182.dstv_com",
+    "name": "NatGeo Wild",
+    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
+    "category": "Documentary"
   },
   {
     "channel_id": "181.dstv_com",
@@ -26,6 +26,20 @@
     "streamUrl": "https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/ApFvejWjRVUzPbyYzS8d9g/1776816000/master_mpegts.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DW5.png",
     "category": "Religious"
+  },
+  {
+    "channel_id": "206.dstv_com",
+    "name": "SS Football Plus",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102644.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png",
+    "category": "Sports"
+  },
+  {
+    "channel_id": "202.dstv_com",
+    "name": "SS PSL",
+    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121957/play.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png",
+    "category": "Sports"
   },
   {
     "channel_id": "200.dstv_com",
@@ -47,13 +61,6 @@
     "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121966/play.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B2C.png",
     "category": "Local"
-  },
-  {
-    "channel_id": "202.dstv_com",
-    "name": "SS PSL",
-    "streamUrl": "https://api.bobtvafrica.site/v1/manual/live/121957/play.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png",
-    "category": "Sports"
   },
   {
     "channel_id": "144.dstv_com",

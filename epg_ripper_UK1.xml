@@ -60,6 +60,12 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">ITV4 HD</display-name>
   </channel>
+  <channel id="Premier.Sports.2.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Premier Sports 2 HD</display-name>
+  </channel>
   <channel id="TNT.Sports.1.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
     <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
@@ -90,11 +96,23 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp PL HD</display-name>
   </channel>
+  <channel id="ComedyCentral.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2510.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2510.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ComedyCentral</display-name>
+  </channel>
   <channel id="ITV2.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">ITV2 HD</display-name>
+  </channel>
+  <channel id="Premier.Sports.1.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Premier Sports 1 HD</display-name>
   </channel>
   <channel id="TNT.Sports.3.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
@@ -10501,6 +10519,1335 @@
     <icon src="https://images.metadata.sky.com/pd-image/06783bd2-a330-4cfb-835b-1447711feed4/16-9" />
     <episode-num system="xmltv_ns">.10.</episode-num>
   </programme>
+  <programme channel="ComedyCentral.uk" start="20261119002000 +0000" stop="20261119011000 +0000">
+    <title lang="en">8 Out Of 10 Cats - Bumper Edition</title>
+    <desc lang="en">Host Jimmy Carr and team captains Sean Lock and Jon Richardson are joined by Richard Bacon, Gemma Collins, Katherine Ryan and Henning Wehn as they thrash out the hot topics of the week. (S15, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f5d4523e-20d8-340f-a6df-57262e31bbe6/16-9" />
+    <episode-num system="xmltv_ns">1501..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119011000 +0000" stop="20261119014000 +0000">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">We Be Clubbin'</sub-title>
+    <desc lang="en">Craig forgets their anniversary, so Tweak joins club sports to spend time with him. Tweak's parents try to keep up with the other club parents. (S29, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cad9fb7d-4c9f-445d-9677-b8c44db3fdbe/16-9" />
+    <episode-num system="xmltv_ns">2904..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119014000 +0000" stop="20261119021000 +0000">
+    <title lang="en">Whose Line Is It Anyway? (USA)</title>
+    <desc lang="en">In an unforgettable show, the cast tackles bum slapping &amp; fitness DVDs in Scenes from a Hat. Queer Eye's Carson Kressley brilliantly camps it up as a male model voiced by Colin in Dubbing. (S3, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5fe8f67-a966-453c-8371-591c92ff48bc/16-9" />
+    <episode-num system="xmltv_ns">317..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119021000 +0000" stop="20261119024000 +0000">
+    <title lang="en">Whose Line Is It Anyway? (USA)</title>
+    <desc lang="en">Fresh Prince of Bel Air star Alfonso Ribeiro shows off some extraordinary moves in an 80s breakdance duet with Wayne. The phrase "Ta Da" finds a very inappropriate use in Scenes from a Hat. (S3, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4646a25b-127f-492f-aa41-916f01806f59/16-9" />
+    <episode-num system="xmltv_ns">418..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119024000 +0000" stop="20261119031000 +0000">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Sponsored Content (1)</sub-title>
+    <desc lang="en">Jimmy's integrity as a newsman runs smack into PC Principal's ideology. While Presidential candidate Mr Garrison is approached by an old friend with alarming news. (S19, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fe843734-423e-4ec2-ac94-c1e78bbab6b3/16-9" />
+    <episode-num system="xmltv_ns">1907..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119031000 +0000" stop="20261119033500 +0000">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Truth and Advertising (2)</sub-title>
+    <desc lang="en">Jimmy does his best to discover Leslie's plan. Principal Victoria, Caitlyn Jenner, and Mr. Garrison return to a South Park that has become unrecognizable. (S19, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0580bbd6-cdd2-435a-8167-90a0e6bf0037/16-9" />
+    <episode-num system="xmltv_ns">1908..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119033500 +0000" stop="20261119034000 +0000">
+    <title lang="en">Dragony Aunts</title>
+    <desc lang="en">Crystal and Candy solve some pal problems. Joe wants to stop feeling jealous of his friends' Insta-perfect lives, while self-declared introvert Yen needs their help with making friends. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2d5e5a63-bde9-3641-addb-5278705670fc/16-9" />
+    <episode-num system="xmltv_ns">102..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119034000 +0000" stop="20261119034500 +0000">
+    <title lang="en">Modern Horror Stories</title>
+    <desc lang="en">Sketch series highlighting the worst aspects of the modern world. In this episode, we're looking into the stressful future that millennials are going to face. If Monopoly was true to life. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/07fd0e48-c090-36c6-8990-25dc5aa57e90/16-9" />
+    <episode-num system="xmltv_ns">103..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119034500 +0000" stop="20261119041000 +0000">
+    <title lang="en">The Daily Show</title>
+    <desc lang="en">Host Michael Kosta talks to economist &amp; author Daniel Susskind, promoting his book, 'What Should My Children Do? A Human's Guide to the Age of AI.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d069c1e7-a8e9-4a72-9feb-9f124fd23774/16-9" />
+    <episode-num system="xmltv_ns">30.131.</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119041000 +0000" stop="20261119043500 +0000">
+    <title lang="en">Takeshi's Castle Ft. Jonathan Ross</title>
+    <desc lang="en">Jonathan Ross narrates as one hundred new recruits face the brand new teetering Dominoes, the swinging Bridge the Gap and the crazy Knock Knock before attempting to attack the castle. (S3, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ffb0f874-76f1-46d1-b1fe-f35b880e655f/16-9" />
+    <episode-num system="xmltv_ns">307..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119043500 +0000" stop="20261119050000 +0000">
+    <title lang="en">Takeshi's Castle Ft. Jonathan Ross</title>
+    <desc lang="en">Jonathan Ross narrates as a hundred more warriors aim for the prize of storming the castle. But with Runaway Rockaway, Breakfast and Bridge Ball in their way will any of them claim victory? (S3, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b112ecf7-679d-4436-8fc2-254bac8f1bef/16-9" />
+    <episode-num system="xmltv_ns">308..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119050000 +0000" stop="20261119060000 +0000">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119060000 +0000" stop="20261119070000 +0000">
+    <title lang="en">Cruise TV With LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8a4e2c50-7447-4415-a505-20e1dae2ae02/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119070000 +0000" stop="20261119080000 +0000">
+    <title lang="en">Cruise TV With LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7c06cf32-bc5b-4a61-a043-17d237acb56d/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119080000 +0000" stop="20261119083500 +0000">
+    <title lang="en">The Upper Hand</title>
+    <sub-title lang="en">Dinner for Two</sub-title>
+    <desc lang="en">Charlie is expecting someone for dinner - but so is Caroline. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5505b830-3996-314c-b473-75243631c19b/16-9" />
+    <episode-num system="xmltv_ns">102..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119083500 +0000" stop="20261119090000 +0000">
+    <title lang="en">The Upper Hand</title>
+    <sub-title lang="en">The Old Girl Network</sub-title>
+    <desc lang="en">Caroline's university reunion brings a visit from her old rival - who helps herself to whatever she fancies. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a6ef730a-9d09-3f51-be98-623314d6a7bf/16-9" />
+    <episode-num system="xmltv_ns">103..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119090000 +0000" stop="20261119093000 +0000">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Misery Loves Company</sub-title>
+    <desc lang="en">Debra and Ray are annoyed at the over-the-top affection Robert and Amy express. Robert and Amy then give Ray marriage advice and Debra a book about it. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c52f8f3-10da-4414-946b-93237cc8d4f1/16-9" />
+    <episode-num system="xmltv_ns">803..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119093000 +0000" stop="20261119100000 +0000">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">The Contractor</sub-title>
+    <desc lang="en">Debra persuades Ray to hire Gianni to do some remodeling in their kitchen, but they both soon regret it due to their friend's laziness. He gets a stove that does not fit.. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4cca4d47-fb6a-45e8-bb50-1e4061148bdd/16-9" />
+    <episode-num system="xmltv_ns">804..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119100000 +0000" stop="20261119103000 +0000">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Peter On The Couch</sub-title>
+    <desc lang="en">Amy's brother Peter visits Amy and just stays back. This makes Robert very uncomfortable and he convinces him to move back. Ray drives him back... (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2212cb21-ca91-4e75-b4d6-be56cc3771a5/16-9" />
+    <episode-num system="xmltv_ns">805..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119103000 +0000" stop="20261119110000 +0000">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Liars</sub-title>
+    <desc lang="en">Ray fakes a headache to get out of spending time with Marie and lies to her about it. This lie leads to a series of lies from Ray and Debra which leads to a huge mess. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3f19f9d5-fc0e-4eb7-85e7-5f9b51416110/16-9" />
+    <episode-num system="xmltv_ns">806..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119110000 +0000" stop="20261119113000 +0000">
+    <title lang="en">Sabrina The Teenage Witch</title>
+    <sub-title lang="en">The Wild Wild Witch</sub-title>
+    <desc lang="en">The West gets even wilder when Sabrina takes the reins as town sheriff. (S4, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/624445be-00e4-4df4-a652-e742533f4317/16-9" />
+    <episode-num system="xmltv_ns">418..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119113000 +0000" stop="20261119120000 +0000">
+    <title lang="en">Sabrina The Teenage Witch</title>
+    <sub-title lang="en">She's Baaack!</sub-title>
+    <desc lang="en">Cousin Amanda returns to give Sabrina a little competition in the teenage witch --and love-- department. (S4, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed12b7b8-4145-42eb-a34c-a402ce48aab5/16-9" />
+    <episode-num system="xmltv_ns">419..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119120000 +0000" stop="20261119123000 +0000">
+    <title lang="en">Sabrina The Teenage Witch</title>
+    <sub-title lang="en">The Four Faces Of Sabrina</sub-title>
+    <desc lang="en">Choosing a college literally tears Sabrina apart when she tries too hard to make everyone else happy. (S4, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ca52bca9-2fd6-4591-8bae-460fd2be7f16/16-9" />
+    <episode-num system="xmltv_ns">420..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119123000 +0000" stop="20261119130000 +0000">
+    <title lang="en">Sabrina The Teenage Witch</title>
+    <sub-title lang="en">The End of an Era</sub-title>
+    <desc lang="en">After four years of enduring Sabrina's spells and strange behavior, Harvey finally suspects she's a witch. (S4, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eeb7e7b2-d989-46a4-b2bd-1c9f0646bc61/16-9" />
+    <episode-num system="xmltv_ns">421..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119130000 +0000" stop="20261119133000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Monica's Boots</sub-title>
+    <desc lang="en">Phoebe finds out that Sting's son is in Ben's class, so she goes to see Sting's wife (real wife Trudie Styler) pretending to be Ben's mother. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ecf92f5-bbb8-4595-acbc-ec70d2ad92b1/16-9" />
+    <episode-num system="xmltv_ns">809..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119133000 +0000" stop="20261119140000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Ross' Step Forward: Ross freaks out when Mona wants to send out joint Christmas cards which leads to her wanting to have "the talk" about their relationship. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7b6da955-f9bf-3a7b-88d0-d99a07ba49d9/16-9" />
+    <episode-num system="xmltv_ns">810..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119140000 +0000" stop="20261119143000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Chandler Takes a Bath: Monica sways Chandler's dislike of baths but he soon becomes addicted to them. Meanwhile, Monica mistakenly tells Phoebe that Joey has a crush on her. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0bdb40e0-4055-4f04-88fc-7055bdc2a791/16-9" />
+    <episode-num system="xmltv_ns">812..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119143000 +0000" stop="20261119150000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Secret Closet: Chandler becomes obsessed with finding out what is behind the door of Monica's secret closet. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f6a42bbb-6fa6-4b9d-b348-f7755d463e56/16-9" />
+    <episode-num system="xmltv_ns">813..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119150000 +0000" stop="20261119153000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Birthing Video: Monica prepares a special Valentine's Day for Chandler which doesn't quite go to plan. Meanwhile, Joey ends up telling Ross about his feelings for Rachel. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9b17d830-d315-47d3-b1a3-8f42269f244b/16-9" />
+    <episode-num system="xmltv_ns">814..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119153000 +0000" stop="20261119160000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Joey Tells Rachel: The guys agree that Joey should tell Rachel about his feelings for her over dinner, regardless of the potential consequences. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e30de008-781a-4771-906d-31636293e12e/16-9" />
+    <episode-num system="xmltv_ns">815..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119160000 +0000" stop="20261119163000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Tea Leaves: After studying tea leaves, Phoebe believes she will encounter the man of her dreams - and she soon meets a very handsome guy, Parker (Alec Baldwin). (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d06b1655-ecbf-4b33-b753-57023b56bde7/16-9" />
+    <episode-num system="xmltv_ns">816..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119163000 +0000" stop="20261119170000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One In Massapequa</sub-title>
+    <desc lang="en">Monica writes a speech for her parents' 35th wedding anniversary. Phoebe dates Parker (Alec Baldwin), whose enthusiasm for everything begins to wear on everyone. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f359c732-521e-4499-82b8-aad27cf360e2/16-9" />
+    <episode-num system="xmltv_ns">817..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119170000 +0000" stop="20261119173000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Joey's Interview</sub-title>
+    <desc lang="en">Joey prepares for an interview with Soap Opera Digest, although he's afraid of saying something stupid that may jeopardize his career... again. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2a3910cb-a6dd-4d15-8716-814f8487b0dd/16-9" />
+    <episode-num system="xmltv_ns">818..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119173000 +0000" stop="20261119180000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Baby Shower: During her baby shower Rachel has the realization that she is totally unprepared to care for a baby, sparking her mother's offer to move in with Ross and her. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e958460c-feeb-444c-a5df-485a52d19182/16-9" />
+    <episode-num system="xmltv_ns">819..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119180000 +0000" stop="20261119183000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Cooking Class: Monica's cooking skills get a bad review in a newspaper. After confronting the critic who wrote it, she decides to join a cooking class, with Joey in tow. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4368de0-d2fb-4c5a-a3ad-fa7e932bc81f/16-9" />
+    <episode-num system="xmltv_ns">820..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119183000 +0000" stop="20261119190000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Is Late: When Rachel's pregnancy goes beyond her due date, the pain makes Rachel increasingly irritable. Meanwhile, Chandler falls asleep at Joey's movie premiere. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b573504f-181a-441c-92c7-6a9fb7b4cf6e/16-9" />
+    <episode-num system="xmltv_ns">821..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119190000 +0000" stop="20261119193000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Has a Baby, Part 1: Ross and Rachel arrive at the hospital. Ross' mum gives Ross her mother's engagement ring to propose to Rachel with. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4d2e9783-2480-3279-a438-766583c4cb04/16-9" />
+    <episode-num system="xmltv_ns">822..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119193000 +0000" stop="20261119200000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Has a Baby, Part 2: After forty-seven hours of labour, Rachel has her baby. However, Joey finds Ross' engagement ring and accidently proposes to a vulnerable Rachel. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e525ea1f-1199-3bdd-a15e-5cb1e3efdac1/16-9" />
+    <episode-num system="xmltv_ns">823..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119200000 +0000" stop="20261119203000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where No One Proposes: Following Joey's accidental proposal to Rachel, he tries to tell her it was an accident but can't find an opportune moment. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6ec8a2c4-6ab0-4028-bc48-319f6e29d2a2/16-9" />
+    <episode-num system="xmltv_ns">900..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119203000 +0000" stop="20261119210000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One Where Emma Cries</sub-title>
+    <desc lang="en">When Joey attempts to gain Ross' forgiveness for mistakenly asking Rachel to marry him, they end up in the emergency room. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/91c5706a-103b-46f2-a33d-38f5118b83f4/16-9" />
+    <episode-num system="xmltv_ns">901..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119210000 +0000" stop="20261119220000 +0000">
+    <title lang="en">Lee Evans: XL Tour Live</title>
+    <desc lang="en">Lee Evans, captured live on his record-breaking XL tour. There's gags galore as he demonstrates why he loves the Olympic opening ceremony and just how romantic a boiling hot bath with his wife can be.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6c3bd8e9-331b-4e33-b27b-bb59810dfafa/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119220000 +0000" stop="20261119223000 +0000">
+    <title lang="en">South Park: Menace to Sobriety</title>
+    <sub-title lang="en">Ike's Wee Wee</sub-title>
+    <desc lang="en">Kyle misunderstands what circumcision is and thinks he has to save Ike's penis from being cut off! Mr. Mackey is fired, and turns to drugs - "drugs are bad, m'kay?" (S2, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0704973b-84d6-49e8-8666-23d08f242b7b/16-9" />
+    <episode-num system="xmltv_ns">203..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119223000 +0000" stop="20261119230000 +0000">
+    <title lang="en">South Park: Menace to Sobriety</title>
+    <sub-title lang="en">Crack Baby Athletic Association</sub-title>
+    <desc lang="en">Kyle discovers Cartman volunteering with crack babies at the local hospital and his suspicions are raised. What part does Slash (Guns n Roses) play in this? (S15, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cdcf5709-9d9d-4285-adc7-664133717b06/16-9" />
+    <episode-num system="xmltv_ns">1504..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119230000 +0000" stop="20261119233000 +0000">
+    <title lang="en">South Park: Menace to Sobriety</title>
+    <sub-title lang="en">Medicinal Fried Chicken</sub-title>
+    <desc lang="en">Cartman is furious to find that his favourite restaurant has been turned into a medical marijuana dispensary. Randy is less disappointed. (S14, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5231715a-c020-4517-8f3c-a0c7a374cd5e/16-9" />
+    <episode-num system="xmltv_ns">1402..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261119233000 +0000" stop="20261120000000 +0000">
+    <title lang="en">South Park: Menace to Sobriety</title>
+    <sub-title lang="en">Major B**bage</sub-title>
+    <desc lang="en">The hysterical parents of South Park have another reason to panic after 'cheesing' becomes popular among kids. Kenny becomes addicted to the out-of-this-world hallucinations. (S12, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7672b163-3be2-4e01-90a2-c67746bc6f4c/16-9" />
+    <episode-num system="xmltv_ns">1202..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120000000 +0000" stop="20261120010000 +0000">
+    <title lang="en">Dara O Briain: Craic Dealer</title>
+    <desc lang="en">Dara Ó Briain is in blistering form as he regales the audience of a packed Edinburgh Playhouse with his unique brand of stand-up, mixing razor sharp punchlines with ingenious audience interaction.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b5dfa0f3-d5e5-33cb-95f6-6c699db2d9ba/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120010000 +0000" stop="20261120013000 +0000">
+    <title lang="en">Ardal O'Hanlon Comedy Central Live</title>
+    <desc lang="en">Ardal O'Hanlon examines the differences between Americans and the Irish, explains why dogs are the best drug smugglers, and compares the absorbency of barnyard animals.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d9b9522f-2264-4135-b0fc-3dcb60bd6405/16-9" />
+    <episode-num system="xmltv_ns">4.14.</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120013000 +0000" stop="20261120020000 +0000">
+    <title lang="en">Whose Line Is It Anyway? (USA)</title>
+    <desc lang="en">Newsanchor Colin is joined by a boxer, GI Joe and a sexy French maid in 'Weird Newscasters', and star guest Gina Rodriguez sits through an eventful firefighter themed dinner with Jeff. (S3, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/afba5a3b-0aaa-472b-af5b-e501e38e3dc3/16-9" />
+    <episode-num system="xmltv_ns">420..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120020000 +0000" stop="20261120023000 +0000">
+    <title lang="en">Whose Line Is It Anyway? (USA)</title>
+    <desc lang="en">Newsanchor Colin is joined by a boxer, GI Joe and a sexy French maid in 'Weird Newscasters', and star guest Gina Rodriguez sits through an eventful firefighter themed dinner with Jeff. (S3, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/afba5a3b-0aaa-472b-af5b-e501e38e3dc3/16-9" />
+    <episode-num system="xmltv_ns">420..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120023000 +0000" stop="20261120030000 +0000">
+    <title lang="en">Whose Line Is It Anyway? (USA)</title>
+    <desc lang="en">Aisha Tyler hosts the legendary improv show featuring Wayne Brady, Ryan Stiles and Colin Mochrie along with guest performer Jonathan Mangum and Boyz II Men singing legend Wanya Morris. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/629252fe-a065-4b61-a5ac-4dad60b28b00/16-9" />
+    <episode-num system="onscreen">11</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120030000 +0000" stop="20261120030500 +0000">
+    <title lang="en">Modern Horror Stories</title>
+    <desc lang="en">Sketch series highlighting the worst aspects of the modern world. In this episode, we're looking into the stressful future that millennials are going to face. If Monopoly was true to life. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/07fd0e48-c090-36c6-8990-25dc5aa57e90/16-9" />
+    <episode-num system="xmltv_ns">103..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120030500 +0000" stop="20261120035000 +0000">
+    <title lang="en">Jack Whitehall Live At The Apollo</title>
+    <desc lang="en">From dates at Nando's to lads' holidays in Magaluf, British customer service etiquette to having sex at his parents' house. Jack dances from one story to another. Recorded at the Hammersmith Apollo.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/566bd35f-0d4a-3ee6-988b-6d82025877cc/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120035000 +0000" stop="20261120041500 +0000">
+    <title lang="en">The Daily Show</title>
+    <sub-title lang="en">Brand new and exclusive</sub-title>
+    <desc lang="en">Join The Daily Show team as they take a satirical sideswipe at the latest in news and current affairs. Emmy Award winning irreverence from Comedy Central.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3f36db94-2e4a-4d99-8a50-2b76b020dde2/16-9" />
+    <episode-num system="xmltv_ns">30.132.</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120041500 +0000" stop="20261120043500 +0000">
+    <title lang="en">Mr. Bean</title>
+    <desc lang="en">Bean holds the fort at a barbershop, resulting in some terrible haircuts. Later, Bean cheats at village fête games, and tries to sneak past a ticket inspector after a train journey. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7a0ac601-55fb-48b8-a143-0bee4361158b/16-9" />
+    <episode-num system="xmltv_ns">113..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120043500 +0000" stop="20261120050000 +0000">
+    <title lang="en">Mr. Bean</title>
+    <sub-title lang="en">Mr</sub-title>
+    <desc lang="en">Bean tries to navigate through the various challenges of everyday life. This time, he takes a plunge at the swimming pool, has trouble in a car park and gets a fright at the cinema. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b73edb98-6c63-4c58-8c7d-cdecb19e39fe/16-9" />
+    <episode-num system="xmltv_ns">12..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120050000 +0000" stop="20261120060000 +0000">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120060000 +0000" stop="20261120070000 +0000">
+    <title lang="en">Cruise TV With LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4f17a36-3e4f-4410-b6aa-986a49365fd8/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120070000 +0000" stop="20261120080000 +0000">
+    <title lang="en">Cruise TV With LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9d9be6c0-b9c3-4d9e-bcd6-7640430eb36f/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120080000 +0000" stop="20261120083500 +0000">
+    <title lang="en">The Upper Hand</title>
+    <sub-title lang="en">Carolines First Fight</sub-title>
+    <desc lang="en">Caroline disapproves of Charlie's attitude towards the children's fighting, but a traumatic day forces her to eat her words. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/531d1586-f727-3590-ba8c-90d35135cf7f/16-9" />
+    <episode-num system="xmltv_ns">104..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120083500 +0000" stop="20261120090000 +0000">
+    <title lang="en">The Upper Hand</title>
+    <sub-title lang="en">Who's Who</sub-title>
+    <desc lang="en">Mistaken identities lead to greater social success for Caroline and Charlie. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4f79f18d-b1d5-3f4c-b555-9c31b1b292c6/16-9" />
+    <episode-num system="xmltv_ns">105..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120090000 +0000" stop="20261120093000 +0000">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Jazz Records</sub-title>
+    <desc lang="en">Thirty years ago, the furnace melted Frank's favorite jazz records on Christmas, and Frank has never forgiven Ray for it. Ray attempts to make it up to him by buying him CDs. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/df4e063c-db73-4ec8-9b2f-a47763f55b5f/16-9" />
+    <episode-num system="xmltv_ns">809..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120093000 +0000" stop="20261120100000 +0000">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Debra At The Lodge</sub-title>
+    <desc lang="en">Debra accepts a position at Frank's lodge to help plan a member recruitment party, and quickly becomes very popular with the lodge brothers. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8fee8670-2310-41a9-87bb-ad5282f3ccae/16-9" />
+    <episode-num system="xmltv_ns">810..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120100000 +0000" stop="20261120103000 +0000">
+    <title lang="en">Everybody Loves Raymond</title>
+    <sub-title lang="en">Slave</sub-title>
+    <desc lang="en">Debra and Ray accidentally leave Michael and Geoffrey home alone when they go to the grocery store. When they get home, they are surprised to find that Ally took over. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/116d7f94-1e85-4c97-9b1b-a38fd6a1b72f/16-9" />
+    <episode-num system="xmltv_ns">811..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120103000 +0000" stop="20261120110000 +0000">
+    <title lang="en">Everybody Loves Raymond</title>
+    <desc lang="en">Whose Side Are You On? After realizing that Debra places bets with the kids on his questionable behaviour traits, Ray is disgusted that his own children now think he's a "doof". (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f1ebeffc-84a6-4fdf-8ef1-b4d62dd74ba8/16-9" />
+    <episode-num system="xmltv_ns">812..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120110000 +0000" stop="20261120113000 +0000">
+    <title lang="en">The Sabrina Teenage Witch</title>
+    <sub-title lang="en">Every Witch Way but Loose</sub-title>
+    <desc lang="en">Sabrina decides to make some changes in her life, including attending college and living away from home like a normal freshman. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c974a15f-8b77-471d-b14f-f30cef80b4d4/16-9" />
+    <episode-num system="xmltv_ns">500..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120113000 +0000" stop="20261120120000 +0000">
+    <title lang="en">The Sabrina Teenage Witch</title>
+    <sub-title lang="en">Double Time</sub-title>
+    <desc lang="en">Sabrina puts herself under a complicated time spell to move at lightning speed, but she later discovers that the extra time got sucked away from her roommates. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bb1650bf-fd51-4d5e-ae0b-ea595477d87e/16-9" />
+    <episode-num system="xmltv_ns">501..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120120000 +0000" stop="20261120123000 +0000">
+    <title lang="en">The Sabrina Teenage Witch</title>
+    <sub-title lang="en">The Halloween Scene</sub-title>
+    <desc lang="en">When Sabrina can't find anyone to share her enthusiasm for Halloween she decides to throw her own haunted holiday bash and it turns into the party of the year. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/591709c3-d7a4-44c5-90ea-0bca30b747cc/16-9" />
+    <episode-num system="xmltv_ns">502..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120123000 +0000" stop="20261120130000 +0000">
+    <title lang="en">The Sabrina Teenage Witch</title>
+    <sub-title lang="en">Heart of the Matter</sub-title>
+    <desc lang="en">When Sabrina realizes she has been turning down guys right and left since her break up with Harvey, she casts a spell to turn herself into a dating machine. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3e01031b-0bca-4204-9562-b60af7b592aa/16-9" />
+    <episode-num system="xmltv_ns">503..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120130000 +0000" stop="20261120133000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Joey's Interview</sub-title>
+    <desc lang="en">Joey prepares for an interview with Soap Opera Digest, although he's afraid of saying something stupid that may jeopardize his career... again. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2a3910cb-a6dd-4d15-8716-814f8487b0dd/16-9" />
+    <episode-num system="xmltv_ns">818..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120133000 +0000" stop="20261120140000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Baby Shower: During her baby shower Rachel has the realization that she is totally unprepared to care for a baby, sparking her mother's offer to move in with Ross and her. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e958460c-feeb-444c-a5df-485a52d19182/16-9" />
+    <episode-num system="xmltv_ns">819..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120140000 +0000" stop="20261120143000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Cooking Class: Monica's cooking skills get a bad review in a newspaper. After confronting the critic who wrote it, she decides to join a cooking class, with Joey in tow. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4368de0-d2fb-4c5a-a3ad-fa7e932bc81f/16-9" />
+    <episode-num system="xmltv_ns">820..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120143000 +0000" stop="20261120150000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Is Late: When Rachel's pregnancy goes beyond her due date, the pain makes Rachel increasingly irritable. Meanwhile, Chandler falls asleep at Joey's movie premiere. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b573504f-181a-441c-92c7-6a9fb7b4cf6e/16-9" />
+    <episode-num system="xmltv_ns">821..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120150000 +0000" stop="20261120153000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Has a Baby, Part 1: Ross and Rachel arrive at the hospital. Ross' mum gives Ross her mother's engagement ring to propose to Rachel with. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4d2e9783-2480-3279-a438-766583c4cb04/16-9" />
+    <episode-num system="xmltv_ns">822..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120153000 +0000" stop="20261120160000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Has a Baby, Part 2: After forty-seven hours of labour, Rachel has her baby. However, Joey finds Ross' engagement ring and accidently proposes to a vulnerable Rachel. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e525ea1f-1199-3bdd-a15e-5cb1e3efdac1/16-9" />
+    <episode-num system="xmltv_ns">823..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120160000 +0000" stop="20261120163000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where No One Proposes: Following Joey's accidental proposal to Rachel, he tries to tell her it was an accident but can't find an opportune moment. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6ec8a2c4-6ab0-4028-bc48-319f6e29d2a2/16-9" />
+    <episode-num system="xmltv_ns">900..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120163000 +0000" stop="20261120170000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One Where Emma Cries</sub-title>
+    <desc lang="en">When Joey attempts to gain Ross' forgiveness for mistakenly asking Rachel to marry him, they end up in the emergency room. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/91c5706a-103b-46f2-a33d-38f5118b83f4/16-9" />
+    <episode-num system="xmltv_ns">901..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120170000 +0000" stop="20261120173000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With the Pediatrician</sub-title>
+    <desc lang="en">Phoebe and Joey decide to set each other up on blind dates but Joey forgets, and finds a complete stranger named Mike (Paul Rudd) to be Phoebe's date. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fac87b0f-3956-4d51-9453-2f555bcbad10/16-9" />
+    <episode-num system="xmltv_ns">902..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120173000 +0000" stop="20261120175500 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With the Sharks</sub-title>
+    <desc lang="en">Monica thinks Chandler is aroused by shark documentaries. Meanwhile, Joey thinks he's already slept with the girl he's dating. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/532bc814-a21f-41e6-91b1-f489ecd3df78/16-9" />
+    <episode-num system="xmltv_ns">903..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120175500 +0000" stop="20261120183000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Phoebe's Birthday Dinner: Phoebe plans a night out for her birthday, but only her and Joey are on time, as all the other friends have issues which make them late. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c6ac4f9-1eb5-449e-8aad-1fc9699c7937/16-9" />
+    <episode-num system="xmltv_ns">904..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120183000 +0000" stop="20261120190500 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With the Male Nanny: Ross and Rachel hire a male nanny (Freddie Prinze Jr.). Chandler feels insecure when Monica tells him that she has met "the funniest man she has ever met". (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bc3e86d2-f3ad-4df3-9b1a-bb80e6358092/16-9" />
+    <episode-num system="xmltv_ns">905..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120190500 +0000" stop="20261120193500 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Ross's Inappropriate Song: Ross accidentally discovers that singing the suggestive lyrics to "Baby Got Back" is the only way to get baby Emma to sleep. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/06e3ed9b-d491-4ea7-8f3c-f0473c35019a/16-9" />
+    <episode-num system="xmltv_ns">906..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120193500 +0000" stop="20261120200500 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Rachel's Other Sister: Rachel's spoiled, irresponsible sister, Amy (Christina Applegate) shows up for Thanksgiving and causes arguments amongst the gang. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4880cefc-d0ad-4b30-8d39-3ffa1c89b441/16-9" />
+    <episode-num system="xmltv_ns">907..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120200500 +0000" stop="20261120203500 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Rachel's Phone Number: Rachel and Phoebe go out for a night together. After Rachel gives a guy her phone number, she worries that he'll call when Ross is at the apartment. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/670d1938-028e-4481-9114-22bf2caf0759/16-9" />
+    <episode-num system="xmltv_ns">908..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120203500 +0000" stop="20261120210000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Christmas in Tulsa: When Chandler has to spend Christmas in Tulsa, Monica suspects the worst when she discovers that he will be joined by a beautiful co-worker, Wendy. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aa4fbf28-e6bb-4dac-a1fa-8389fd73e24a/16-9" />
+    <episode-num system="xmltv_ns">909..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120210000 +0000" stop="20261120220000 +0000">
+    <title lang="en">Michael McIntyre's Big Show</title>
+    <desc lang="en">Michael McIntyre returns with his award-winning show from the London Palladium. Will Bear Grylls survive Send To All? and Liam Payne performs. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99a5c25f-7357-4b21-b1bd-577c77db43f2/16-9" />
+    <episode-num system="xmltv_ns">500..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120220000 +0000" stop="20261120230000 +0000">
+    <title lang="en">Jack Whitehall Live At The Apollo</title>
+    <desc lang="en">From dates at Nando's to lads' holidays in Magaluf, British customer service etiquette to having sex at his parents' house. Jack dances from one story to another. Recorded at the Hammersmith Apollo.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/566bd35f-0d4a-3ee6-988b-6d82025877cc/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120230000 +0000" stop="20261120233000 +0000">
+    <title lang="en">Whose Line Is It Anyway?(USA)</title>
+    <desc lang="en">Aisha Tyler hosts another memorable episode of the legendary improv show featuring regulars Wayne Brady, Ryan Stiles and Colin Mochrie along with guest performer Gary Anthony Williams. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a256d4b5-41ec-33d7-9e76-e9ef3b7a69bd/16-9" />
+    <episode-num system="xmltv_ns">611..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261120233000 +0000" stop="20261121002500 +0000">
+    <title lang="en">Jimmy Carr's Am I the A******?</title>
+    <desc lang="en">Jimmy, GK Barry and Jamali are passing judgement on some potential a******s. Taking the stand tonight is a romantic gesture fail and someone who refuses to date if the stars don't align. (S2, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5b1d764-23af-412e-b741-a6eab831cedd/16-9" />
+    <episode-num system="xmltv_ns">202..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121002500 +0000" stop="20261121012500 +0000">
+    <title lang="en">8 Out Of 10 Cats - Bumper Edition</title>
+    <desc lang="en">Jimmy Carr and team captains Sean Lock and Jon Richardson are joined by Jack Dee, Claudia Winkleman, David O'Doherty and Josh Widdicombe as they thrash out the hot topics of the week. (S15, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ac10df5-238a-45a1-8cf1-0c31b2c844f0/16-9" />
+    <episode-num system="xmltv_ns">1500..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121012500 +0000" stop="20261121021500 +0000">
+    <title lang="en">8 Out Of 10 Cats - Bumper Edition</title>
+    <desc lang="en">Host Jimmy Carr and team captains Sean Lock and Jon Richardson are joined by Richard Bacon, Gemma Collins, Katherine Ryan and Henning Wehn as they thrash out the hot topics of the week. (S15, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f5d4523e-20d8-340f-a6df-57262e31bbe6/16-9" />
+    <episode-num system="xmltv_ns">1501..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121021500 +0000" stop="20261121031000 +0000">
+    <title lang="en">Michael McIntyre's Big Show</title>
+    <desc lang="en">Michael McIntyre returns with his award-winning show from the London Palladium. Will Bear Grylls survive Send To All? and Liam Payne performs. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99a5c25f-7357-4b21-b1bd-577c77db43f2/16-9" />
+    <episode-num system="xmltv_ns">500..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121031000 +0000" stop="20261121033000 +0000">
+    <title lang="en">Reno 911!</title>
+    <sub-title lang="en">Undercover Acting Coach</sub-title>
+    <desc lang="en">In order to boost arrest percentages in undercover operations, the officers take acting lessons from Sergeant Clift from LAPD. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/215a7f37-086f-3f17-98dd-c450c2dda574/16-9" />
+    <episode-num system="xmltv_ns">514..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121033000 +0000" stop="20261121035000 +0000">
+    <title lang="en">Key &amp; Peele</title>
+    <desc lang="en">Sketches include a cult having a mass suicide, a father and son talk about the child's fears, and Jordan being offended by an overly sexual co-worker. (S3, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f50a7ec0-3283-303a-9c37-c00c0f408580/16-9" />
+    <episode-num system="xmltv_ns">311..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121035000 +0000" stop="20261121041500 +0000">
+    <title lang="en">The Daily Show</title>
+    <sub-title lang="en">Brand new and exclusive</sub-title>
+    <desc lang="en">Join The Daily Show team as they take a satirical sideswipe at the latest in news and current affairs. Emmy Award winning irreverence from Comedy Central.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e81a8ac9-e5d0-484c-bb41-4df6163e2b36/16-9" />
+    <episode-num system="xmltv_ns">30.133.</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121041500 +0000" stop="20261121043500 +0000">
+    <title lang="en">Mr. Bean</title>
+    <desc lang="en">Mr Bean unsuccessfully tries out his new technology. Later, Bean's night out spells disaster for a stage magician, and he shows off his dancing skills at Club Phut. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b0efa5df-f41c-479d-a4e0-3fa1f8060b70/16-9" />
+    <episode-num system="xmltv_ns">13..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121043500 +0000" stop="20261121050000 +0000">
+    <title lang="en">Mr. Bean</title>
+    <desc lang="en">Mr Bean, late for his dental appointment, tries to get dressed and clean his teeth on the way. After the dentist, Bean visits the park, where he tangles with a pesky fly and a toy boat. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/54a7c7b8-3931-4c87-85c7-c1fc02f05449/16-9" />
+    <episode-num system="xmltv_ns">104..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121050000 +0000" stop="20261121060000 +0000">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121060000 +0000" stop="20261121070000 +0000">
+    <title lang="en">Cruise TV With LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6e721601-a635-4c04-9a6f-28c2b81fc2c5/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121070000 +0000" stop="20261121080000 +0000">
+    <title lang="en">Cruise TV With LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5fcb1dc6-ae89-46b8-ab8a-9fadd9b57577/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121080000 +0000" stop="20261121090000 +0000">
+    <title lang="en">Michael McIntyre's Big Show</title>
+    <desc lang="en">Michael McIntyre returns with his award-winning show from the London Palladium. Will Bear Grylls survive Send To All? and Liam Payne performs. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99a5c25f-7357-4b21-b1bd-577c77db43f2/16-9" />
+    <episode-num system="xmltv_ns">500..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121090000 +0000" stop="20261121093000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Joey's New Brain: Joey learns that his character in his daytime drama is about to gain prominence at the expense of the show's diva star (Susan Sarandon). (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/790663a7-e7c2-429d-ba8b-5b5f1a5513da/16-9" />
+    <episode-num system="xmltv_ns">714..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121093000 +0000" stop="20261121100000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Truth About London: Chandler finds out who Monica really wanted to have sex with on the night they became lovers. Ross is angry after Rachel teaches Ben practical jokes. (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b4e6e6b0-8126-40a4-8c90-e8ede0e2f500/16-9" />
+    <episode-num system="xmltv_ns">715..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121100000 +0000" stop="20261121103000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Cheap Wedding Dress: Monica battles another shopper for the perfect wedding dress. Meanwhile, Joey and Ross fight over the same girl and go to drastic measures to win. (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e12503c0-070f-41b7-a706-7f5454d7633c/16-9" />
+    <episode-num system="xmltv_ns">716..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121103000 +0000" stop="20261121110000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Joey's Award</sub-title>
+    <desc lang="en">Joey is nominated for a "Soapie" but loses. However, when he accepts a different award on behalf of a co-star, he finds himself unwilling to hand it over. (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d57dcbd2-4ebd-4621-8e89-594ba4cb6c80/16-9" />
+    <episode-num system="xmltv_ns">717..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121110000 +0000" stop="20261121113000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Rachel's Big Kiss: Rachel reveals a titillating secret about her and a former sorority sister (guest-star Winona Ryder). Ross and Chandler compete for wedding tuxedos. (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f51720ca-ad38-4da0-8ebc-c3c8339929db/16-9" />
+    <episode-num system="xmltv_ns">719..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121113000 +0000" stop="20261121120000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With The Vows</sub-title>
+    <desc lang="en">Chandler and Monica struggle to write their wedding vows. This prompts the group to remember the journey Monica and Chandler have made over the past few years. (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6fe4d861-7266-4f06-a3f5-cd4918ede849/16-9" />
+    <episode-num system="xmltv_ns">720..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121120000 +0000" stop="20261121123000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Chandler's Dad</sub-title>
+    <desc lang="en">Chandler confronts his estranged cross-dressing father (Kathleen Turner). Meanwhile, Rachel gets into trouble driving Monica's Porsche. (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f9de1c37-1538-44b6-b511-38d5c5580dd5/16-9" />
+    <episode-num system="xmltv_ns">721..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121123000 +0000" stop="20261121130000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Monica and Chandler's Wedding Part 1: Chandler gets the pre-wedding jitters and runs away. Meanwhile, Phoebe finds a positive pregnancy test and assumes it's Monica's. (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/69cd1233-dae1-4cee-8573-d9c6d1238372/16-9" />
+    <episode-num system="xmltv_ns">722..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121130000 +0000" stop="20261121140000 +0000">
+    <title lang="en">Michael McIntyre's Big Show</title>
+    <desc lang="en">Michael McIntyre returns with his award-winning show from the London Palladium. Will Bear Grylls survive Send To All? and Liam Payne performs. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/99a5c25f-7357-4b21-b1bd-577c77db43f2/16-9" />
+    <episode-num system="xmltv_ns">500..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121140000 +0000" stop="20261121143000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Monica and Chandler's Wedding Part 2: Monica remains unaware of the potential disasters on her wedding day. Meanwhile, Joey's drunk co-star could make him miss the nuptials. (S7, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/45cd1a05-597a-4604-b8ce-24ac263a3620/16-9" />
+    <episode-num system="xmltv_ns">723..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121143000 +0000" stop="20261121150000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One After \"I Do\"</sub-title>
+    <desc lang="en">Everybody thinks Monica's pregnant, but her denial quickly shifts the focus to Phoebe, thereby taking the heat off of a nervous Rachel. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b4612fc8-21f0-4a9d-afdc-90490b258db0/16-9" />
+    <episode-num system="xmltv_ns">800..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121150000 +0000" stop="20261121153000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Red Sweater: Rachel won't tell anybody who the father is until she tells him. Meanwhile, Joey mistakenly thinks Phoebe is pregnant and makes a gallant gesture. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a034e81-4511-4614-b876-e5029e963f85/16-9" />
+    <episode-num system="xmltv_ns">801..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121153000 +0000" stop="20261121160000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One Where Rachel Tells</sub-title>
+    <desc lang="en">..: Chandler and Monica prepare to leave for their honeymoon as Rachel prepares to tell the father of her baby. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f50e4b9c-ac2c-49e1-896f-524d1a7dd9c7/16-9" />
+    <episode-num system="xmltv_ns">802..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121160000 +0000" stop="20261121163000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Rachel's Date</sub-title>
+    <desc lang="en">Ross is horrified to learn that Rachel is going on a date with a handsome actor, Kash, especially since she is pregnant with his child. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c8cf06d-ae70-4f65-9ef5-82731e5d2cd1/16-9" />
+    <episode-num system="xmltv_ns">804..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121163000 +0000" stop="20261121170000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Halloween Party: At Monica and Chandler's Halloween party Phoebe runs into her sister's fiance, Eric (guest-star Sean Penn), and finds herself attracted to him. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ecdd2a61-2ccc-42e0-be3b-74f6c11c4aee/16-9" />
+    <episode-num system="xmltv_ns">805..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121170000 +0000" stop="20261121173000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With The Stripper</sub-title>
+    <desc lang="en">Rachel tells her short-tempered father that she is pregnant with Ross' baby. Monica arranges to have a 'stripper' perform at Chandler's belated bachelor party. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d9d21d94-9c37-42de-a0eb-c27e423e3aaa/16-9" />
+    <episode-num system="xmltv_ns">807..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121173000 +0000" stop="20261121180000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With The Rumour</sub-title>
+    <desc lang="en">Monica invites a high school friend, Will (Brad Pitt), to her Thanksgiving dinner. Rachel finds out that he and Ross started a mean rumour about her at school. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5efee0c-5940-4d1d-bdfa-8245cbe70747/16-9" />
+    <episode-num system="xmltv_ns">808..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121180000 +0000" stop="20261121183000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Monica's Boots</sub-title>
+    <desc lang="en">Phoebe finds out that Sting's son is in Ben's class, so she goes to see Sting's wife (real wife Trudie Styler) pretending to be Ben's mother. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ecf92f5-bbb8-4595-acbc-ec70d2ad92b1/16-9" />
+    <episode-num system="xmltv_ns">809..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121183000 +0000" stop="20261121190000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Ross' Step Forward: Ross freaks out when Mona wants to send out joint Christmas cards which leads to her wanting to have "the talk" about their relationship. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7b6da955-f9bf-3a7b-88d0-d99a07ba49d9/16-9" />
+    <episode-num system="xmltv_ns">810..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121190000 +0000" stop="20261121193000 +0000">
+    <title lang="en">Mr. Bean</title>
+    <desc lang="en">Bean holds the fort at a barbershop, resulting in some terrible haircuts. Later, Bean cheats at village fête games, and tries to sneak past a ticket inspector after a train journey. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7a0ac601-55fb-48b8-a143-0bee4361158b/16-9" />
+    <episode-num system="xmltv_ns">113..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121193000 +0000" stop="20261121200000 +0000">
+    <title lang="en">Mr. Bean</title>
+    <sub-title lang="en">Mr</sub-title>
+    <desc lang="en">Bean tries to navigate through the various challenges of everyday life. This time, he takes a plunge at the swimming pool, has trouble in a car park and gets a fright at the cinema. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b73edb98-6c63-4c58-8c7d-cdecb19e39fe/16-9" />
+    <episode-num system="xmltv_ns">12..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121200000 +0000" stop="20261121203000 +0000">
+    <title lang="en">Mr. Bean</title>
+    <desc lang="en">Mr Bean unsuccessfully tries out his new technology. Later, Bean's night out spells disaster for a stage magician, and he shows off his dancing skills at Club Phut. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b0efa5df-f41c-479d-a4e0-3fa1f8060b70/16-9" />
+    <episode-num system="xmltv_ns">13..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121203000 +0000" stop="20261121210000 +0000">
+    <title lang="en">Mr. Bean</title>
+    <desc lang="en">Mr Bean, late for his dental appointment, tries to get dressed and clean his teeth on the way. After the dentist, Bean visits the park, where he tangles with a pesky fly and a toy boat. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/54a7c7b8-3931-4c87-85c7-c1fc02f05449/16-9" />
+    <episode-num system="xmltv_ns">104..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121210000 +0000" stop="20261121233000 +0000">
+    <title lang="en">Lethal Weapon 4</title>
+    <desc lang="en">With personal crises and age weighing in on them, LAPD officers Riggs (Mel Gibson) and Murtaugh (Danny Glover) must contend with deadly Chinese triads. Chris Rock, Jet Li, Rene Russo co-star.</desc>
+    <date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4c391df9-0e21-43d6-a8b9-d317b58b09eb/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261121233000 +0000" stop="20261122003000 +0000">
+    <title lang="en">Jimmy Carr's Am I the A******?</title>
+    <desc lang="en">Jimmy, GK Barry and Jamali are passing judgement on some potential a******s. Taking the stand tonight is a romantic gesture fail and someone who refuses to date if the stars don't align. (S2, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5b1d764-23af-412e-b741-a6eab831cedd/16-9" />
+    <episode-num system="xmltv_ns">202..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122003000 +0000" stop="20261122013000 +0000">
+    <title lang="en">8 Out Of 10 Cats - Bumper Edition</title>
+    <desc lang="en">Jimmy Carr and team captains Sean Lock and Jon Richardson are joined by Jack Dee, Claudia Winkleman, David O'Doherty and Josh Widdicombe as they thrash out the hot topics of the week. (S15, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ac10df5-238a-45a1-8cf1-0c31b2c844f0/16-9" />
+    <episode-num system="xmltv_ns">1500..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122013000 +0000" stop="20261122022000 +0000">
+    <title lang="en">8 Out Of 10 Cats - Bumper Edition</title>
+    <desc lang="en">Host Jimmy Carr and team captains Sean Lock and Jon Richardson are joined by Richard Bacon, Gemma Collins, Katherine Ryan and Henning Wehn as they thrash out the hot topics of the week. (S15, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f5d4523e-20d8-340f-a6df-57262e31bbe6/16-9" />
+    <episode-num system="xmltv_ns">1501..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122022000 +0000" stop="20261122025000 +0000">
+    <title lang="en">Whose Line Is It Anyway? (USA)</title>
+    <desc lang="en">Aisha Tyler hosts another memorable episode of the legendary improv show featuring regulars Wayne Brady, Ryan Stiles and Colin Mochrie along with guest performer Gary Anthony Williams. (S5, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a256d4b5-41ec-33d7-9e76-e9ef3b7a69bd/16-9" />
+    <episode-num system="xmltv_ns">611..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122025000 +0000" stop="20261122035000 +0000">
+    <title lang="en">Fern Brady: Power &amp; Chaos - Uncut</title>
+    <desc lang="en">Stand-up comedian Fern Brady brings her unique take on contemporary culture and the state of the UK to a packed crowd in Glasgow.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4a05795c-4730-458b-af6b-6dcaa0dea3bd/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122035000 +0000" stop="20261122041500 +0000">
+    <title lang="en">Mike Judge's Beavis And Butt-Head</title>
+    <sub-title lang="en">Nuts &amp; Bike</sub-title>
+    <desc lang="en">Beavis receives the worst news of his life. Middle-aged Beavis and Butt-Head pay a visit to their old friend Stewart. (S3, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1f6917a8-a78b-4fce-9e63-fb5dd3e01f27/16-9" />
+    <episode-num system="xmltv_ns">303..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122041500 +0000" stop="20261122050000 +0000">
+    <title lang="en">Guessable?</title>
+    <desc lang="en">Sara Pascoe, Alan Davies, Darren Harriott, and sidekick John Kearns, welcome Glenn Moore, Amy Gledhill, Ria Lina and Scarlett Moffatt to play another round of absurd guessing games. (S4, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7caa86ca-6b0d-39e9-8816-2f72bdf74e60/16-9" />
+    <episode-num system="xmltv_ns">409..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122050000 +0000" stop="20261122060000 +0000">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122060000 +0000" stop="20261122070000 +0000">
+    <title lang="en">Cruise TV With LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/05632d6e-9a8c-40c7-b824-e75dca6d8260/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122070000 +0000" stop="20261122080000 +0000">
+    <title lang="en">Cruise TV With LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ad327ae-51d0-4384-8ffb-0206785757bb/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122080000 +0000" stop="20261122083500 +0000">
+    <title lang="en">Impractical Jokers</title>
+    <desc lang="en">The Jokers crash into product displays at a grocery store, play hide and seek in an office and interact with restaurant customers as commanded by Bret, Q, Sal, and surprise guest Paul Rudd. (S10, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a90ff479-95f7-3d90-b743-d5ad041b50d8/16-9" />
+    <episode-num system="xmltv_ns">1000..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122083500 +0000" stop="20261122090000 +0000">
+    <title lang="en">Impractical Jokers</title>
+    <desc lang="en">The guys get up to no good at the mall. Today's loser has to pose as a parking attendant, taking the blame for whatever happened inside people's cars with Post Malone as his assistant. (S10, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/930e58b4-d834-3420-a4dd-bcf756a8dc92/16-9" />
+    <episode-num system="xmltv_ns">1001..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122090000 +0000" stop="20261122093000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Chandler Takes a Bath: Monica sways Chandler's dislike of baths but he soon becomes addicted to them. Meanwhile, Monica mistakenly tells Phoebe that Joey has a crush on her. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0bdb40e0-4055-4f04-88fc-7055bdc2a791/16-9" />
+    <episode-num system="xmltv_ns">812..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122093000 +0000" stop="20261122100000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Secret Closet: Chandler becomes obsessed with finding out what is behind the door of Monica's secret closet. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f6a42bbb-6fa6-4b9d-b348-f7755d463e56/16-9" />
+    <episode-num system="xmltv_ns">813..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122100000 +0000" stop="20261122103000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Birthing Video: Monica prepares a special Valentine's Day for Chandler which doesn't quite go to plan. Meanwhile, Joey ends up telling Ross about his feelings for Rachel. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9b17d830-d315-47d3-b1a3-8f42269f244b/16-9" />
+    <episode-num system="xmltv_ns">814..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122103000 +0000" stop="20261122110000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Joey Tells Rachel: The guys agree that Joey should tell Rachel about his feelings for her over dinner, regardless of the potential consequences. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e30de008-781a-4771-906d-31636293e12e/16-9" />
+    <episode-num system="xmltv_ns">815..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122110000 +0000" stop="20261122113000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Tea Leaves: After studying tea leaves, Phoebe believes she will encounter the man of her dreams - and she soon meets a very handsome guy, Parker (Alec Baldwin). (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d06b1655-ecbf-4b33-b753-57023b56bde7/16-9" />
+    <episode-num system="xmltv_ns">816..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122113000 +0000" stop="20261122120000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One In Massapequa</sub-title>
+    <desc lang="en">Monica writes a speech for her parents' 35th wedding anniversary. Phoebe dates Parker (Alec Baldwin), whose enthusiasm for everything begins to wear on everyone. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f359c732-521e-4499-82b8-aad27cf360e2/16-9" />
+    <episode-num system="xmltv_ns">817..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122120000 +0000" stop="20261122123000 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With Joey's Interview</sub-title>
+    <desc lang="en">Joey prepares for an interview with Soap Opera Digest, although he's afraid of saying something stupid that may jeopardize his career... again. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2a3910cb-a6dd-4d15-8716-814f8487b0dd/16-9" />
+    <episode-num system="xmltv_ns">818..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122123000 +0000" stop="20261122130000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Baby Shower: During her baby shower Rachel has the realization that she is totally unprepared to care for a baby, sparking her mother's offer to move in with Ross and her. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e958460c-feeb-444c-a5df-485a52d19182/16-9" />
+    <episode-num system="xmltv_ns">819..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122130000 +0000" stop="20261122133000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With The Cooking Class: Monica's cooking skills get a bad review in a newspaper. After confronting the critic who wrote it, she decides to join a cooking class, with Joey in tow. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4368de0-d2fb-4c5a-a3ad-fa7e932bc81f/16-9" />
+    <episode-num system="xmltv_ns">820..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122133000 +0000" stop="20261122140000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Is Late: When Rachel's pregnancy goes beyond her due date, the pain makes Rachel increasingly irritable. Meanwhile, Chandler falls asleep at Joey's movie premiere. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b573504f-181a-441c-92c7-6a9fb7b4cf6e/16-9" />
+    <episode-num system="xmltv_ns">821..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122140000 +0000" stop="20261122143000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Has a Baby, Part 1: Ross and Rachel arrive at the hospital. Ross' mum gives Ross her mother's engagement ring to propose to Rachel with. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4d2e9783-2480-3279-a438-766583c4cb04/16-9" />
+    <episode-num system="xmltv_ns">822..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122143000 +0000" stop="20261122150000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where Rachel Has a Baby, Part 2: After forty-seven hours of labour, Rachel has her baby. However, Joey finds Ross' engagement ring and accidently proposes to a vulnerable Rachel. (S8, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e525ea1f-1199-3bdd-a15e-5cb1e3efdac1/16-9" />
+    <episode-num system="xmltv_ns">823..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122150000 +0000" stop="20261122153000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One Where No One Proposes: Following Joey's accidental proposal to Rachel, he tries to tell her it was an accident but can't find an opportune moment. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6ec8a2c4-6ab0-4028-bc48-319f6e29d2a2/16-9" />
+    <episode-num system="xmltv_ns">900..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122153000 +0000" stop="20261122155500 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One Where Emma Cries</sub-title>
+    <desc lang="en">When Joey attempts to gain Ross' forgiveness for mistakenly asking Rachel to marry him, they end up in the emergency room. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/91c5706a-103b-46f2-a33d-38f5118b83f4/16-9" />
+    <episode-num system="xmltv_ns">901..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122155500 +0000" stop="20261122162500 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With the Pediatrician</sub-title>
+    <desc lang="en">Phoebe and Joey decide to set each other up on blind dates but Joey forgets, and finds a complete stranger named Mike (Paul Rudd) to be Phoebe's date. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fac87b0f-3956-4d51-9453-2f555bcbad10/16-9" />
+    <episode-num system="xmltv_ns">902..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122162500 +0000" stop="20261122165500 +0000">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With the Sharks</sub-title>
+    <desc lang="en">Monica thinks Chandler is aroused by shark documentaries. Meanwhile, Joey thinks he's already slept with the girl he's dating. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/532bc814-a21f-41e6-91b1-f489ecd3df78/16-9" />
+    <episode-num system="xmltv_ns">903..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122165500 +0000" stop="20261122172500 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Phoebe's Birthday Dinner: Phoebe plans a night out for her birthday, but only her and Joey are on time, as all the other friends have issues which make them late. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c6ac4f9-1eb5-449e-8aad-1fc9699c7937/16-9" />
+    <episode-num system="xmltv_ns">904..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122172500 +0000" stop="20261122180000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With the Male Nanny: Ross and Rachel hire a male nanny (Freddie Prinze Jr.). Chandler feels insecure when Monica tells him that she has met "the funniest man she has ever met". (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bc3e86d2-f3ad-4df3-9b1a-bb80e6358092/16-9" />
+    <episode-num system="xmltv_ns">905..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122180000 +0000" stop="20261122183500 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Ross's Inappropriate Song: Ross accidentally discovers that singing the suggestive lyrics to "Baby Got Back" is the only way to get baby Emma to sleep. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/06e3ed9b-d491-4ea7-8f3c-f0473c35019a/16-9" />
+    <episode-num system="xmltv_ns">906..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122183500 +0000" stop="20261122190000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Rachel's Other Sister: Rachel's spoiled, irresponsible sister, Amy (Christina Applegate) shows up for Thanksgiving and causes arguments amongst the gang. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4880cefc-d0ad-4b30-8d39-3ffa1c89b441/16-9" />
+    <episode-num system="xmltv_ns">907..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122190000 +0000" stop="20261122193500 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Rachel's Phone Number: Rachel and Phoebe go out for a night together. After Rachel gives a guy her phone number, she worries that he'll call when Ross is at the apartment. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/670d1938-028e-4481-9114-22bf2caf0759/16-9" />
+    <episode-num system="xmltv_ns">908..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122193500 +0000" stop="20261122200000 +0000">
+    <title lang="en">Friends</title>
+    <desc lang="en">The One With Christmas in Tulsa: When Chandler has to spend Christmas in Tulsa, Monica suspects the worst when she discovers that he will be joined by a beautiful co-worker, Wendy. (S9, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aa4fbf28-e6bb-4dac-a1fa-8389fd73e24a/16-9" />
+    <episode-num system="xmltv_ns">909..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122200000 +0000" stop="20261122203000 +0000">
+    <title lang="en">Mr. Bean</title>
+    <desc lang="en">Enjoy the Christmas adventures of Mr Bean! He visits town for a chaotic shopping trip, and tries to host a romantic Christmas for his girlfriend whilst preparing a disastrous festive feast. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e736a7c5-e293-4180-bd9a-2f2aac6370c5/16-9" />
+    <episode-num system="xmltv_ns">106..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122203000 +0000" stop="20261122210000 +0000">
+    <title lang="en">Mr. Bean</title>
+    <sub-title lang="en">Mr</sub-title>
+    <desc lang="en">Bean causes trouble at a hotel and gets competitive with his hotel neighbour. After eating some spoiled oysters, he wakes up at night to some loud noises and gets locked out of his room. (S1, E.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/48ad41f9-4242-414b-8444-3b42e7a79b92/16-9" />
+    <episode-num system="xmltv_ns">107..</episode-num>
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122210000 +0000" stop="20261122230500 +0000">
+    <title lang="en">Kindergarten Cop</title>
+    <desc lang="en">A two-fisted LA cop (Arnold Schwarzenegger) poses as a kindergarten teacher to fight a ruthless drug lord.</desc>
+    <date>1991</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f62c71f7-7496-42d5-bf94-d068d40aa752/16-9" />
+  </programme>
+  <programme channel="ComedyCentral.uk" start="20261122230500 +0000" stop="20261123000500 +0000">
+    <title lang="en">Al Murray: Barrel Of Fun - Live</title>
+    <desc lang="en">The Pub Landlord is back to serve up his unique, special brew of bar-room banter. The Guv tackles everything from global warming and a PC-world gone mad, to debt and the financial crisis.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aa62bb6f-ef5f-441f-b0b9-83365dd84692/16-9" />
+  </programme>
   <programme channel="ITV1.HD.uk" start="20261119001000 +0000" stop="20261119030000 +0000">
     <title lang="en">Shop on TV</title>
     <desc lang="en">Teleshopping.</desc>
@@ -15500,6 +16847,938 @@
     <sub-title lang="en">Action from the third preliminary round of the mixed pairs event</sub-title>
     <desc lang="en">Action from the third preliminary round of the mixed pairs event.</desc>
     <icon src="https://tv.assets.pressassociation.io/618e4e08-9ca6-51dc-818e-b8fe01bf9a9c.jpg" />
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261119210000 +0000" stop="20261119223000 +0000">
+    <title lang="en">Men's Rugby League World Cup</title>
+    <sub-title lang="en">Australia v New Zealand</sub-title>
+    <desc lang="en">Action from Australia v New Zealand in the 2026 final.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/152bf304-4bc3-52d4-81cf-df273c4234b8.jpg" />
+    <episode-num system="onscreen">S2026 E51</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261119223000 +0000" stop="20261120003000 +0000">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">Colorado at Utah</sub-title>
+    <desc lang="en">Utah Mammoth v Colorado Avalanche.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg" />
+    <episode-num system="onscreen">S2027 E112</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120003000 +0000" stop="20261120033000 +0000">
+    <title lang="en">Live NHL Ice Hockey</title>
+    <sub-title lang="en">Columbus at Chicago</sub-title>
+    <desc lang="en">Chicago Blackhawks v Columbus Blue Jackets (Face-off 1.00am). Coverage of the inter-conference match from United Center.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg" />
+    <episode-num system="onscreen">S2027 E114</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120033000 +0000" stop="20261120040000 +0000">
+    <title lang="en">NHL: This is Hockey</title>
+    <sub-title lang="en">This is Hockey: Chile</sub-title>
+    <desc lang="en">A look at the growth of ice hockey in Chile.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg" />
+    <episode-num system="onscreen">S2024 E2</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120040000 +0000" stop="20261120043000 +0000">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Sporting Greats 4</sub-title>
+    <desc lang="en">Legendary sporting figures discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg" />
+    <episode-num system="onscreen">S2022 E4</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120043000 +0000" stop="20261120050000 +0000">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Sporting Greats 3</sub-title>
+    <desc lang="en">Legendary sporting figures discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg" />
+    <episode-num system="onscreen">S2022 E3</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120050000 +0000" stop="20261120060000 +0000">
+    <title lang="en">NHL Specials</title>
+    <sub-title lang="en">Top 50 Players 10-1</sub-title>
+    <desc lang="en">A look at the top players in the NHL from 10-1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg" />
+    <episode-num system="onscreen">S2026 E27</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120060000 +0000" stop="20261120070000 +0000">
+    <title lang="en">Indikart Championship</title>
+    <sub-title lang="en">Round 10</sub-title>
+    <desc lang="en">Action from the 10th round of the season.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/26d5d06f-5cbf-52d1-a33f-1aaaf8473aa8.jpg" />
+    <episode-num system="onscreen">S2026 E10</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120070000 +0000" stop="20261120085500 +0000">
+    <title lang="en">Brasileiro Serie A</title>
+    <sub-title lang="en">Sao Paulo v Fluminense</sub-title>
+    <desc lang="en">Sao Paulo v Fluminense.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/73586420-8be0-54f9-9851-4f813fe5ca30.jpg" />
+    <episode-num system="onscreen">S2026 E70</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120085500 +0000" stop="20261120104500 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Atletico Madrid v Barcelona</sub-title>
+    <desc lang="en">Atletico Madrid v Barcelona.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E108</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120104500 +0000" stop="20261120130000 +0000">
+    <title lang="en">Live Cricket Italia T10</title>
+    <sub-title lang="en">Milan Icons v Brescia Lions</sub-title>
+    <desc lang="en">Milan Icons v Brescia Lions. Coverage of the match from Roma Cricket Ground in Rome.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/1185b7e1-f224-5ae0-b278-cc20849ac47c.jpg" />
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120130000 +0000" stop="20261120151500 +0000">
+    <title lang="en">Live Cricket Italia T10</title>
+    <sub-title lang="en">Rome v v Napoli</sub-title>
+    <desc lang="en">Rome v v Napoli. Coverage of the match from Roma Cricket Ground in Rome.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/1185b7e1-f224-5ae0-b278-cc20849ac47c.jpg" />
+    <episode-num system="onscreen">S2026 E2</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120151500 +0000" stop="20261120153000 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Atletico Madrid v Barcelona</sub-title>
+    <desc lang="en">Atletico Madrid v Barcelona.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E108</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120153000 +0000" stop="20261120160000 +0000">
+    <title lang="en">Sporting Countdowns</title>
+    <sub-title lang="en">Sporting Countdowns 5</sub-title>
+    <desc lang="en">Focusing on some of the most memorable moments in sports history.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/28d03298-1b52-54eb-bcb9-eba5803148cd.jpg" />
+    <episode-num system="onscreen">S2022 E5</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120160000 +0000" stop="20261120170000 +0000">
+    <title lang="en">NHL on the Fly</title>
+    <desc lang="en">Catch up on all the latest NHL news.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/88e4db6e-34d2-5ae9-bc9b-a52d2cfa1250.jpg" />
+    <episode-num system="onscreen">S2027 E50</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120170000 +0000" stop="20261120175500 +0000">
+    <title lang="en">NHL Specials</title>
+    <sub-title lang="en">Top 50 Players 10-1</sub-title>
+    <desc lang="en">A look at the top players in the NHL from 10-1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg" />
+    <episode-num system="onscreen">S2026 E27</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120175500 +0000" stop="20261120182500 +0000">
+    <title lang="en">LaLiga Show</title>
+    <sub-title lang="en">Round 13</sub-title>
+    <desc lang="en">A preview show for the upcoming matchday in LALIGA Santander.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/c205f4c8-1993-5820-8e45-d673a9492d47.jpg" />
+    <episode-num system="onscreen">S2026 E13</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120182500 +0000" stop="20261120183500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Sevilla v Alaves</sub-title>
+    <desc lang="en">Sevilla v Alaves.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E101</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120183500 +0000" stop="20261120184500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Malaga v Racing</sub-title>
+    <desc lang="en">Malaga v Racing Santander.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E102</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120184500 +0000" stop="20261120185500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Espanyol v Deportivo</sub-title>
+    <desc lang="en">Espanyol v Deportivo La Coruna.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E103</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120185500 +0000" stop="20261120190500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Osasuna v Athletic Club</sub-title>
+    <desc lang="en">Osasuna v Athletic Bilbao.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E104</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120190500 +0000" stop="20261120191500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Elche v Real Betis</sub-title>
+    <desc lang="en">Elche v Real Betis.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E105</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120191500 +0000" stop="20261120192500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Real Sociedad v Rayo Vallecano</sub-title>
+    <desc lang="en">Real Sociedad v Rayo Vallecano.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E106</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120192500 +0000" stop="20261120193500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Villarreal v Getafe</sub-title>
+    <desc lang="en">Villarreal v Getafe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E107</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120193500 +0000" stop="20261120194500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Atletico Madrid v Barcelona</sub-title>
+    <desc lang="en">Atletico Madrid v Barcelona.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E108</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120194500 +0000" stop="20261120195500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Celta Vigo v Levante</sub-title>
+    <desc lang="en">Celta Vigo v Levante.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E109</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120195500 +0000" stop="20261120220000 +0000">
+    <title lang="en">Live LaLiga</title>
+    <sub-title lang="en">Athletic Club v Espanyol</sub-title>
+    <desc lang="en">Athletic Bilbao v Espanyol (Kick-off 8.00pm). Coverage of the Spanish top-flight match from San Mamés.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/264bff3c-4fe4-5412-a723-a403bd98fd92.jpg" />
+    <episode-num system="onscreen">S2026 E110</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120220000 +0000" stop="20261120223000 +0000">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Sporting Greats 3</sub-title>
+    <desc lang="en">Legendary sporting figures discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg" />
+    <episode-num system="onscreen">S2022 E3</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120223000 +0000" stop="20261120233000 +0000">
+    <title lang="en">NHL Specials</title>
+    <sub-title lang="en">Top 20 Wings</sub-title>
+    <desc lang="en">A look at the top 20 wings in the NHL.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg" />
+    <episode-num system="onscreen">S2026 E19</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261120233000 +0000" stop="20261121013000 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Athletic Club v Espanyol</sub-title>
+    <desc lang="en">Athletic Bilbao v Espanyol.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E110</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121013000 +0000" stop="20261121033000 +0000">
+    <title lang="en">Men's Rugby League World Cup</title>
+    <sub-title lang="en">Australia v New Zealand</sub-title>
+    <desc lang="en">Action from Australia v New Zealand in the 2026 final.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/152bf304-4bc3-52d4-81cf-df273c4234b8.jpg" />
+    <episode-num system="onscreen">S2026 E51</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121033000 +0000" stop="20261121040000 +0000">
+    <title lang="en">Temples of Sport</title>
+    <sub-title lang="en">Temples of Sport 6</sub-title>
+    <desc lang="en">Iconic sporting venues from around the globe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg" />
+    <episode-num system="onscreen">S2022 E6</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121040000 +0000" stop="20261121060000 +0000">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">Edmonton at Tampa Bay</sub-title>
+    <desc lang="en">Tampa Bay Lightning v Edmonton Oilers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg" />
+    <episode-num system="onscreen">S2027 E114</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121060000 +0000" stop="20261121063000 +0000">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Sporting Greats 4</sub-title>
+    <desc lang="en">Legendary sporting figures discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg" />
+    <episode-num system="onscreen">S2022 E4</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121063000 +0000" stop="20261121070000 +0000">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Sporting Greats 7</sub-title>
+    <desc lang="en">Legendary sporting figures discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg" />
+    <episode-num system="onscreen">S2022 E7</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121070000 +0000" stop="20261121080000 +0000">
+    <title lang="en">NHL Specials</title>
+    <sub-title lang="en">2026 Stanley Cup film</sub-title>
+    <desc lang="en">A look back at the 2026 Stanley Cup.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg" />
+    <episode-num system="onscreen">S2025 E18</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121080000 +0000" stop="20261121090000 +0000">
+    <title lang="en">NHL Specials</title>
+    <sub-title lang="en">Top 50 Players 10-1</sub-title>
+    <desc lang="en">A look at the top players in the NHL from 10-1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg" />
+    <episode-num system="onscreen">S2026 E27</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121090000 +0000" stop="20261121110000 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Barcelona v Real Madrid</sub-title>
+    <desc lang="en">Barcelona v Real Madrid.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E90</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121110000 +0000" stop="20261121125500 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Athletic Club v Espanyol</sub-title>
+    <desc lang="en">Athletic Bilbao v Espanyol.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E110</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121125500 +0000" stop="20261121150000 +0000">
+    <title lang="en">Live LaLiga</title>
+    <sub-title lang="en">Alaves v Deportivo</sub-title>
+    <desc lang="en">Alaves v Deportivo La Courna (Kick-off 1.00pm). Coverage of the Spanish top-flight match from Campo de Fútbol de Mendizorrotza.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/264bff3c-4fe4-5412-a723-a403bd98fd92.jpg" />
+    <episode-num system="onscreen">S2026 E111</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121150000 +0000" stop="20261121151500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Villarreal v Getafe</sub-title>
+    <desc lang="en">Villarreal v Getafe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E107</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121151500 +0000" stop="20261121173000 +0000">
+    <title lang="en">SPFL</title>
+    <sub-title lang="en">Aberdeen v Hibernian</sub-title>
+    <desc lang="en">Aberdeen v Hibernian.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/6e1492fc-4253-5c2b-a53c-ddc225f67b87.jpg" />
+    <episode-num system="onscreen">S2026 E8</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121173000 +0000" stop="20261121201500 +0000">
+    <title lang="en">Live SPFL</title>
+    <sub-title lang="en">Dundee v Hearts</sub-title>
+    <desc lang="en">Dundee v Hearts (Kick-off 5.45pm). Coverage of the Scottish Premiership match from Dens Park.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/c2e5fb73-3045-5bf3-afe8-a90275017439.jpg" />
+    <episode-num system="onscreen">S2026 E9</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121201500 +0000" stop="20261121203000 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Atletico Madrid v Barcelona</sub-title>
+    <desc lang="en">Atletico Madrid v Barcelona.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E108</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121203000 +0000" stop="20261121210000 +0000">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Football's Greatest 6</sub-title>
+    <desc lang="en">The finest players in history discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/31c81ef5-7517-511a-a3ca-0989dbc47b8f.jpg" />
+    <episode-num system="onscreen">S2022 E6</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121210000 +0000" stop="20261121230000 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Rayo Vallecano v Valencia</sub-title>
+    <desc lang="en">Rayo Vallecano v Valencia.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E112</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261121230000 +0000" stop="20261122010000 +0000">
+    <title lang="en">SPFL</title>
+    <sub-title lang="en">Dundee v Hearts</sub-title>
+    <desc lang="en">Dundee v Hearts.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/6e1492fc-4253-5c2b-a53c-ddc225f67b87.jpg" />
+    <episode-num system="onscreen">S2026 E9</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122010000 +0000" stop="20261122030000 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Athletic Club v Espanyol</sub-title>
+    <desc lang="en">Athletic Bilbao v Espanyol.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E110</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122030000 +0000" stop="20261122060000 +0000">
+    <title lang="en">Live NHL Ice Hockey</title>
+    <sub-title lang="en">Minnesota at Vancouver</sub-title>
+    <desc lang="en">Vancouver Canucks v Minnesota Wild (Face-off 3.00am). Coverage of the Western Conference match from Rogers Arena.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg" />
+    <episode-num system="onscreen">S2027 E117</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122060000 +0000" stop="20261122063000 +0000">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Sporting Greats 9</sub-title>
+    <desc lang="en">Legendary sporting figures discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg" />
+    <episode-num system="onscreen">S2022 E9</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122063000 +0000" stop="20261122070000 +0000">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Sporting Greats 3</sub-title>
+    <desc lang="en">Legendary sporting figures discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg" />
+    <episode-num system="onscreen">S2022 E3</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122070000 +0000" stop="20261122090000 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Alaves v Deportivo</sub-title>
+    <desc lang="en">Alaves v Deportivo La Coruna.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E111</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122090000 +0000" stop="20261122110000 +0000">
+    <title lang="en">SPFL</title>
+    <sub-title lang="en">Dundee v Hearts</sub-title>
+    <desc lang="en">Dundee v Hearts.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/6e1492fc-4253-5c2b-a53c-ddc225f67b87.jpg" />
+    <episode-num system="onscreen">S2026 E9</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122110000 +0000" stop="20261122125500 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Rayo Vallecano v Valencia</sub-title>
+    <desc lang="en">Rayo Vallecano v Valencia.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E112</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122125500 +0000" stop="20261122150000 +0000">
+    <title lang="en">Live LaLiga</title>
+    <sub-title lang="en">Barcelona v Villarreal</sub-title>
+    <desc lang="en">Barcelona v Villarreal (Kick-off 1.00pm). Coverage of the Spanish top-flight match from Spotify Camp Nou.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/264bff3c-4fe4-5412-a723-a403bd98fd92.jpg" />
+    <episode-num system="onscreen">S2026 E114</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122150000 +0000" stop="20261122151000 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Sevilla v Alaves</sub-title>
+    <desc lang="en">Sevilla v Alaves.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E101</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122151000 +0000" stop="20261122171500 +0000">
+    <title lang="en">Live LaLiga</title>
+    <sub-title lang="en">Racing v Real Sociedad</sub-title>
+    <desc lang="en">Racing Santander v Real Sociedad (Kick-off 3.15pm). Coverage of the Spanish top-flight match from Estadio El Sardinero.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/264bff3c-4fe4-5412-a723-a403bd98fd92.jpg" />
+    <episode-num system="onscreen">S2026 E115</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122171500 +0000" stop="20261122172500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Malaga v Racing</sub-title>
+    <desc lang="en">Malaga v Racing Santander.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E102</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122172500 +0000" stop="20261122193000 +0000">
+    <title lang="en">Live LaLiga</title>
+    <sub-title lang="en">Osasuna v Malaga</sub-title>
+    <desc lang="en">Osasuna v Malaga (Kick-off 5.30pm). Coverage of the Spanish top-flight match from Estadio El Sadar.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/264bff3c-4fe4-5412-a723-a403bd98fd92.jpg" />
+    <episode-num system="onscreen">S2026 E116</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122193000 +0000" stop="20261122194000 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Espanyol v Deportivo</sub-title>
+    <desc lang="en">Espanyol v Deportivo La Coruna.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E103</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122194000 +0000" stop="20261122195500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Osasuna v Athletic Club</sub-title>
+    <desc lang="en">Osasuna v Athletic Bilbao.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E104</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122195500 +0000" stop="20261122220000 +0000">
+    <title lang="en">Live LaLiga</title>
+    <sub-title lang="en">Getafe v Atletico Madrid</sub-title>
+    <desc lang="en">Getafe v Atletico Madrid (Kick-off 8.00pm). Coverage of the Spanish top-flight match from Estadio Coliseum.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/264bff3c-4fe4-5412-a723-a403bd98fd92.jpg" />
+    <episode-num system="onscreen">S2026 E117</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.1.HD.uk" start="20261122220000 +0000" stop="20261123010000 +0000">
+    <title lang="en">Live NHL Ice Hockey</title>
+    <sub-title lang="en">Buffalo at Tampa Bay</sub-title>
+    <desc lang="en">Tampa Bay Lightning v Buffalo Sabres (Face-off 10.00pm). Coverage of the Eastern Conference match from Benchmark International Arena.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg" />
+    <episode-num system="onscreen">S2027 E119</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261119210000 +0000" stop="20261119230000 +0000">
+    <title lang="en">Abu Dhabi T10 Cricket</title>
+    <sub-title lang="en">Yas Lions v Royal Desert</sub-title>
+    <desc lang="en">Yas Lions v Royal Desert.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/b0513cd6-fb20-5760-bd71-8c94f89334b3.jpg" />
+    <episode-num system="onscreen">S2026 E29</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261119230000 +0000" stop="20261120000000 +0000">
+    <title lang="en">NHL Specials</title>
+    <sub-title lang="en">Top 20 Defensemen</sub-title>
+    <desc lang="en">A look at the top 20 defensemen in the NHL.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg" />
+    <episode-num system="onscreen">S2026 E21</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120000000 +0000" stop="20261120030000 +0000">
+    <title lang="en">Live NHL Ice Hockey</title>
+    <sub-title lang="en">Philadelphia at Ottawa</sub-title>
+    <desc lang="en">Ottawa Senators v Philadelphia Flyers (Face-off 12.00am). Coverage of the Eastern Conference match at Canadian Tire Centre.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg" />
+    <episode-num system="onscreen">S2027 E113</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120030000 +0000" stop="20261120060000 +0000">
+    <title lang="en">Live NHL Ice Hockey</title>
+    <sub-title lang="en">Dallas at Vegas</sub-title>
+    <desc lang="en">Vegas Golden Knights v Dallas Stars (Face-off 3.00am). Coverage of the Western Conference match from T-Mobile Arena.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg" />
+    <episode-num system="onscreen">S2027 E115</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120060000 +0000" stop="20261120063000 +0000">
+    <title lang="en">NHL: This is Hockey</title>
+    <sub-title lang="en">This is Hockey: Mexico</sub-title>
+    <desc lang="en">A look at the growth of ice hockey in Mexico.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg" />
+    <episode-num system="onscreen">S2024 E7</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120063000 +0000" stop="20261120070000 +0000">
+    <title lang="en">Temples of Sport</title>
+    <sub-title lang="en">Temples of Sport 9</sub-title>
+    <desc lang="en">Iconic sporting venues from around the globe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg" />
+    <episode-num system="onscreen">S2022 E9</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120070000 +0000" stop="20261120080000 +0000">
+    <title lang="en">NHL Specials</title>
+    <sub-title lang="en">Top 20 Centers</sub-title>
+    <desc lang="en">A look at the top 20 centers in the NHL.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg" />
+    <episode-num system="onscreen">S2026 E20</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120080000 +0000" stop="20261120100000 +0000">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">Philadelphia at Ottawa</sub-title>
+    <desc lang="en">Ottawa Senators v Philadelphia Flyers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg" />
+    <episode-num system="onscreen">S2027 E113</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120100000 +0000" stop="20261120103000 +0000">
+    <title lang="en">Temples of Sport</title>
+    <sub-title lang="en">Temples of Sport 9</sub-title>
+    <desc lang="en">Iconic sporting venues from around the globe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg" />
+    <episode-num system="onscreen">S2022 E9</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120103000 +0000" stop="20261120110000 +0000">
+    <title lang="en">Bike World</title>
+    <desc lang="en">The latest news and reports from two-wheel competitions.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/e1536647-2e6f-5ad4-98f5-367e682be3bf.jpg" />
+    <episode-num system="onscreen">S2025 E155</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120110000 +0000" stop="20261120130000 +0000">
+    <title lang="en">Abu Dhabi T10 Cricket</title>
+    <sub-title lang="en">Emirates Eagles v United Tigers</sub-title>
+    <desc lang="en">Emirates Eagles v United Tigers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/b0513cd6-fb20-5760-bd71-8c94f89334b3.jpg" />
+    <episode-num system="onscreen">S2026 E30</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120130000 +0000" stop="20261120153000 +0000">
+    <title lang="en">Live Abu Dhabi T10 Cricket</title>
+    <sub-title lang="en">Qualifier</sub-title>
+    <desc lang="en">Coverage of the qualifier from Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/9fccf4a8-abb4-5c95-bbe4-2c40b2ef0948.jpg" />
+    <episode-num system="onscreen">S2026 E31</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120153000 +0000" stop="20261120181500 +0000">
+    <title lang="en">Live Abu Dhabi T10 Cricket</title>
+    <sub-title lang="en">Final</sub-title>
+    <desc lang="en">Coverage of the final from Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/9fccf4a8-abb4-5c95-bbe4-2c40b2ef0948.jpg" />
+    <episode-num system="onscreen">S2026 E32</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120181500 +0000" stop="20261120184500 +0000">
+    <title lang="en">Temples of Sport</title>
+    <sub-title lang="en">Temples of Sport 3</sub-title>
+    <desc lang="en">Iconic sporting venues.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg" />
+    <episode-num system="onscreen">S2022 E3</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120184500 +0000" stop="20261120191500 +0000">
+    <title lang="en">NHL: This is Hockey</title>
+    <sub-title lang="en">This is Hockey: Brazil</sub-title>
+    <desc lang="en">A look at the growth of ice hockey in Brazil.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg" />
+    <episode-num system="onscreen">S2024 E5</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120191500 +0000" stop="20261120221500 +0000">
+    <title lang="en">Live Elite Ice Hockey League</title>
+    <sub-title lang="en">Glasgow Clan v Guildford Flames</sub-title>
+    <desc lang="en">Glasgow Clan v Guildford Flames (Face-off 7.30pm). Coverage of the match at Braehead Arena.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/65cd3ec4-ad7b-5cdc-a7bc-2ea0de71c71e.jpg" />
+    <episode-num system="onscreen">S2026 E22</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120221500 +0000" stop="20261120224500 +0000">
+    <title lang="en">NHL: This is Hockey</title>
+    <sub-title lang="en">This is Hockey: Puerto Rico</sub-title>
+    <desc lang="en">A look at the growth of ice hockey in Puerto Rico.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg" />
+    <episode-num system="onscreen">S2024 E4</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120224500 +0000" stop="20261120230000 +0000">
+    <title lang="en">Africa Eco Race</title>
+    <desc lang="en">The latest motorsport highlights from the Africa Eco race.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/fe18daf2-7ea8-5a9f-b5f6-5c5ef1987c06.jpg" />
+    <episode-num system="onscreen">S2025 E13</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261120230000 +0000" stop="20261121000000 +0000">
+    <title lang="en">NHL Specials</title>
+    <sub-title lang="en">Top 20 Defensemen</sub-title>
+    <desc lang="en">A look at the top 20 defensemen in the NHL.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg" />
+    <episode-num system="onscreen">S2026 E21</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121000000 +0000" stop="20261121020000 +0000">
+    <title lang="en">Champions Cup</title>
+    <sub-title lang="en">La Rochelle v Lions</sub-title>
+    <desc lang="en">Stade Rochelais v Lions.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/43ccb6ad-9c9f-5f75-bd3e-bb0404423f8d.jpg" />
+    <episode-num system="onscreen">S2026 E6</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121020000 +0000" stop="20261121040000 +0000">
+    <title lang="en">Champions Cup</title>
+    <sub-title lang="en">Toulouse v Exeter</sub-title>
+    <desc lang="en">Stade Toulousain v Exeter Chiefs.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/43ccb6ad-9c9f-5f75-bd3e-bb0404423f8d.jpg" />
+    <episode-num system="onscreen">S2026 E11</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121040000 +0000" stop="20261121060000 +0000">
+    <title lang="en">Champions Cup</title>
+    <sub-title lang="en">Munster v Racing 92</sub-title>
+    <desc lang="en">Munster Rugby v Racing 92.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/43ccb6ad-9c9f-5f75-bd3e-bb0404423f8d.jpg" />
+    <episode-num system="onscreen">S2026 E8</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121060000 +0000" stop="20261121063000 +0000">
+    <title lang="en">Temples of Sport</title>
+    <sub-title lang="en">Temples of Sport 1</sub-title>
+    <desc lang="en">Iconic sporting venues from around the globe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg" />
+    <episode-num system="onscreen">S2022 E1</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121063000 +0000" stop="20261121083000 +0000">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">Philadelphia at Ottawa</sub-title>
+    <desc lang="en">Ottawa Senators v Philadelphia Flyers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg" />
+    <episode-num system="onscreen">S2027 E113</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121083000 +0000" stop="20261121103000 +0000">
+    <title lang="en">Abu Dhabi T10 Cricket</title>
+    <sub-title lang="en">Final</sub-title>
+    <desc lang="en">Action from the final at Zayed Cricket Stadium.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/b0513cd6-fb20-5760-bd71-8c94f89334b3.jpg" />
+    <episode-num system="onscreen">S2026 E32</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121103000 +0000" stop="20261121104500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Osasuna v Athletic Club</sub-title>
+    <desc lang="en">Osasuna v Athletic Bilbao.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E104</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121104500 +0000" stop="20261121130000 +0000">
+    <title lang="en">Live Cricket Italia T10</title>
+    <sub-title lang="en">Brescia Lions v Napoli Knights</sub-title>
+    <desc lang="en">Brescia Lions v Napoli Knights. Coverage of the match from Roma Cricket Ground in Rome.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/1185b7e1-f224-5ae0-b278-cc20849ac47c.jpg" />
+    <episode-num system="onscreen">S2026 E3</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121130000 +0000" stop="20261121151500 +0000">
+    <title lang="en">Live Cricket Italia T10</title>
+    <sub-title lang="en">Milan Icons v Venice Livewires</sub-title>
+    <desc lang="en">Milan Icons v Venice Livewires. Coverage of the match from Roma Cricket Ground in Rome.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/1185b7e1-f224-5ae0-b278-cc20849ac47c.jpg" />
+    <episode-num system="onscreen">S2026 E4</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121151500 +0000" stop="20261121171500 +0000">
+    <title lang="en">SPFL</title>
+    <sub-title lang="en">Aberdeen v Hibernian</sub-title>
+    <desc lang="en">Aberdeen v Hibernian.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/6e1492fc-4253-5c2b-a53c-ddc225f67b87.jpg" />
+    <episode-num system="onscreen">S2026 E8</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121171500 +0000" stop="20261121172500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Villarreal v Getafe</sub-title>
+    <desc lang="en">Villarreal v Getafe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E107</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121172500 +0000" stop="20261121193000 +0000">
+    <title lang="en">Live LaLiga</title>
+    <sub-title lang="en">Sevilla v Real Betis</sub-title>
+    <desc lang="en">Sevilla v Real Betis (Kick-off 5.30pm). Coverage of the Spanish top-flight match from Estadio Ramón Sanchez Pizjuán.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/264bff3c-4fe4-5412-a723-a403bd98fd92.jpg" />
+    <episode-num system="onscreen">S2026 E113</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121193000 +0000" stop="20261121213000 +0000">
+    <title lang="en">Live Brasileiro Serie A</title>
+    <sub-title lang="en">Palmeiras v Flamengo</sub-title>
+    <desc lang="en">Palmeiras v Flamengo (Kick-off 7.30pm). Coverage of the match from Nubank Parque.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/ace0c04d-60bf-58fd-b84f-87cd694c1389.jpg" />
+    <episode-num system="onscreen">S2026 E71</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121213000 +0000" stop="20261121220000 +0000">
+    <title lang="en">Temples of Sport</title>
+    <sub-title lang="en">Temples of Sport 5</sub-title>
+    <desc lang="en">Iconic sporting venues from around the globe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg" />
+    <episode-num system="onscreen">S2022 E5</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261121220000 +0000" stop="20261122000000 +0000">
+    <title lang="en">NHL Ice Hockey</title>
+    <sub-title lang="en">Dallas at Vegas</sub-title>
+    <desc lang="en">Vegas Golden Knights v Dallas Stars.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg" />
+    <episode-num system="onscreen">S2027 E115</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122000000 +0000" stop="20261122030000 +0000">
+    <title lang="en">Live NHL Ice Hockey</title>
+    <sub-title lang="en">Los Angeles at Ottawa</sub-title>
+    <desc lang="en">Ottawa Senators v Los Angeles Kings.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg" />
+    <episode-num system="onscreen">S2027 E116</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122030000 +0000" stop="20261122033000 +0000">
+    <title lang="en">NHL: This is Hockey</title>
+    <sub-title lang="en">This is Hockey: Argentina</sub-title>
+    <desc lang="en">A look at the growth of ice hockey in Argentina.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg" />
+    <episode-num system="onscreen">S2024 E1</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122033000 +0000" stop="20261122040000 +0000">
+    <title lang="en">NHL: This is Hockey</title>
+    <sub-title lang="en">This is Hockey: Jamaica</sub-title>
+    <desc lang="en">A look at the growth of ice hockey in Jamaica.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg" />
+    <episode-num system="onscreen">S2024 E3</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122040000 +0000" stop="20261122060000 +0000">
+    <title lang="en">LaLiga</title>
+    <sub-title lang="en">Sevilla v Real Betis</sub-title>
+    <desc lang="en">Sevilla v Real Betis.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg" />
+    <episode-num system="onscreen">S2026 E113</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122060000 +0000" stop="20261122080000 +0000">
+    <title lang="en">Top 14 Rugby Union</title>
+    <sub-title lang="en">Vannes v Bordeaux Begles</sub-title>
+    <desc lang="en">Vannes v Bordeaux Begles.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/b2a27490-c4d9-5c0c-8bce-6c221dbe9398.jpg" />
+    <episode-num system="onscreen">S2026 E35</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122080000 +0000" stop="20261122100000 +0000">
+    <title lang="en">Brasileiro Serie A</title>
+    <sub-title lang="en">Palmeiras v Flamengo</sub-title>
+    <desc lang="en">Palmeiras v Flamengo.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/73586420-8be0-54f9-9851-4f813fe5ca30.jpg" />
+    <episode-num system="onscreen">S2026 E71</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122100000 +0000" stop="20261122103000 +0000">
+    <title lang="en">Temples of Sport</title>
+    <sub-title lang="en">Temples of Sport 6</sub-title>
+    <desc lang="en">Iconic sporting venues from around the globe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg" />
+    <episode-num system="onscreen">S2022 E6</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122103000 +0000" stop="20261122104500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Elche v Real Betis</sub-title>
+    <desc lang="en">Elche v Real Betis.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E105</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122104500 +0000" stop="20261122130000 +0000">
+    <title lang="en">Live Cricket Italia T10</title>
+    <sub-title lang="en">Napoli v Venice</sub-title>
+    <desc lang="en">Napoli v Venice. Coverage of the match from Roma Cricket Ground in Rome.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/1185b7e1-f224-5ae0-b278-cc20849ac47c.jpg" />
+    <episode-num system="onscreen">S2026 E5</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122130000 +0000" stop="20261122151500 +0000">
+    <title lang="en">Live Cricket Italia T10</title>
+    <sub-title lang="en">Brescia Lions v Rome Gladiators</sub-title>
+    <desc lang="en">Brescia Lions v Rome Gladiators. Coverage of the match from Roma Cricket Ground in Rome.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/1185b7e1-f224-5ae0-b278-cc20849ac47c.jpg" />
+    <episode-num system="onscreen">S2026 E6</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122151500 +0000" stop="20261122153000 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Real Sociedad v Rayo Vallecano</sub-title>
+    <desc lang="en">Real Sociedad v Rayo Vallecano.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E106</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122153000 +0000" stop="20261122160000 +0000">
+    <title lang="en">Temples of Sport</title>
+    <sub-title lang="en">Temples of Sport 4</sub-title>
+    <desc lang="en">Iconic sporting venues from around the globe.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg" />
+    <episode-num system="onscreen">S2022 E4</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122160000 +0000" stop="20261122163000 +0000">
+    <title lang="en">NHL: This is Hockey</title>
+    <sub-title lang="en">This is Hockey: Colombia</sub-title>
+    <desc lang="en">A look at the growth of ice hockey in Colombia.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg" />
+    <episode-num system="onscreen">S2024 E6</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122163000 +0000" stop="20261122173000 +0000">
+    <title lang="en">NHL on the Fly</title>
+    <desc lang="en">Catch up on all the latest NHL news.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/88e4db6e-34d2-5ae9-bc9b-a52d2cfa1250.jpg" />
+    <episode-num system="onscreen">S2027 E52</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122173000 +0000" stop="20261122203000 +0000">
+    <title lang="en">Live NHL Ice Hockey</title>
+    <sub-title lang="en">Carolina at NY Rangers</sub-title>
+    <desc lang="en">New York Rangers v Carolina Hurricanes (Face-off 5.30pm). Coverage of the Eastern Conference match from Madison Square Garden.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg" />
+    <episode-num system="onscreen">S2027 E118</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122203000 +0000" stop="20261122210000 +0000">
+    <title lang="en">NHL: This is Hockey</title>
+    <sub-title lang="en">This is Hockey: Chile</sub-title>
+    <desc lang="en">A look at the growth of ice hockey in Chile.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg" />
+    <episode-num system="onscreen">S2024 E2</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122210000 +0000" stop="20261122213000 +0000">
+    <title lang="en">Football's Greatest</title>
+    <sub-title lang="en">Football's Greatest 10</sub-title>
+    <desc lang="en">The finest players in history discuss their careers.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/31c81ef5-7517-511a-a3ca-0989dbc47b8f.jpg" />
+    <episode-num system="onscreen">S2022 E10</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122213000 +0000" stop="20261122214000 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Osasuna v Athletic Club</sub-title>
+    <desc lang="en">Osasuna v Athletic Bilbao.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E104</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122214000 +0000" stop="20261122215500 +0000">
+    <title lang="en">LaLiga Match Highlights</title>
+    <sub-title lang="en">Elche v Real Betis</sub-title>
+    <desc lang="en">Elche v Real Betis.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg" />
+    <episode-num system="onscreen">S2026 E105</episode-num>
+  </programme>
+  <programme channel="Premier.Sports.2.HD.uk" start="20261122215500 +0000" stop="20261123010000 +0000">
+    <title lang="en">Live Argentine Primera Division</title>
+    <sub-title lang="en">River Plate v Lanus</sub-title>
+    <desc lang="en">River Plate v Lanus (Kick-off 10.00pm). Coverage of the match from Estadio Monumental.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://tv.assets.pressassociation.io/fdfe7d3e-53a8-541c-bd9d-6c6c3df3ded3.jpg" />
+    <episode-num system="onscreen">S2026 E74</episode-num>
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20261119000000 +0000" stop="20261119010000 +0000">
     <title lang="en">ATP Final: Paris</title>

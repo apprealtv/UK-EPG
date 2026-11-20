@@ -7,17 +7,17 @@
     "category": "Kids"
   },
   {
-    "channel_id": "182.dstv_com",
-    "name": "NatGeo Wild",
-    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
-    "category": "Documentary"
-  },
-  {
     "channel_id": "181.dstv_com",
     "name": "National Geographic Channel",
     "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
+    "category": "Documentary"
+  },
+  {
+    "channel_id": "182.dstv_com",
+    "name": "NatGeo Wild",
+    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
     "category": "Documentary"
   },
   {

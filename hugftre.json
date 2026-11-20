@@ -1,5 +1,4 @@
 [
-  
   {
     "channel_id": "ComedyCentral.uk",
     "name": "Comedy Central",
@@ -593,6 +592,13 @@
     "name": "M Stars",
     "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734834.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "108.dstv_com",
+    "name": "M Legends",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734835.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png",
     "category": "Mzansi"
   }
 ]

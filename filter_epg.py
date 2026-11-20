@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 
 KEEP_CHANNELS = {
     # ITV
+    'ComedyCentral.uk',
     'ITV1.HD.uk',
     'ITV2.HD.uk',
     'ITV3.HD.uk',
@@ -26,6 +27,8 @@ KEEP_CHANNELS = {
     'TNT.Sports.2.HD.uk',
     'TNT.Sports.3.HD.uk',
     'TNT.Sports.4.HD.uk',
+    'Premier.Sports.1.HD.uk',
+    'Premier.Sports.2.HD.uk',
 }
 
 INPUT_FILE = 'epg_ripper_UK1.xml'

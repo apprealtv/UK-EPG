@@ -3,6 +3,7 @@
 Validate only DStv channels (channel_id ends with '.dstv_com') in hugftre.json.
 - Removes DStv channels whose streamUrl fails.
 - Keeps working DStv channels.
+- ALWAYS keeps any channel whose streamUrl contains "bobtv" (never checked, never removed).
 - Leaves all other channels (UK, NZ, etc.) completely untouched.
 - Stores removed DStv entries in known_dead.json so they can be re-added if they recover.
 """
@@ -19,6 +20,7 @@ DEAD_FILE     = Path("known_dead.json")
 TIMEOUT       = 15
 MAX_WORKERS   = 15
 DSTV_SUFFIX   = ".dstv_com"
+PROTECTED_TOKEN = "bobtv"   # any streamUrl containing this is never checked or removed
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -30,6 +32,12 @@ USER_AGENT = (
 def is_dstv(channel: dict) -> bool:
     """True only for DStv channels."""
     return str(channel.get("channel_id", "")).endswith(DSTV_SUFFIX)
+
+
+def is_protected(channel: dict) -> bool:
+    """True if streamUrl contains the protected token (e.g. bobtv)."""
+    url = str(channel.get("streamUrl", "")).lower()
+    return PROTECTED_TOKEN in url
 
 
 def is_stream_alive(url: str) -> bool:
@@ -103,43 +111,48 @@ def main() -> int:
         return 1
 
     channels = load_json_list(CHANNELS_FILE)
-    dstv     = [c for c in channels if is_dstv(c)]
-    non_dstv = [c for c in channels if not is_dstv(c)]
+
+    # DStv channels split into protected (bobtv) and checkable
+    dstv_protected = [c for c in channels if is_dstv(c) and is_protected(c)]
+    dstv_checkable = [c for c in channels if is_dstv(c) and not is_protected(c)]
+    non_dstv       = [c for c in channels if not is_dstv(c)]
 
     print(f"Total channels: {len(channels)}")
-    print(f"  DStv (will be checked): {len(dstv)}")
-    print(f"  Other (untouched):      {len(non_dstv)}")
+    print(f"  DStv protected (bobtv, never removed): {len(dstv_protected)}")
+    print(f"  DStv will be checked:                  {len(dstv_checkable)}")
+    print(f"  Other (untouched):                     {len(non_dstv)}")
 
-    if not dstv:
+    if not dstv_checkable and not dstv_protected:
         print("No DStv channels found; nothing to do.")
         return 0
 
-    # --- 1. Check current DStv channels ---
-    print(f"\nChecking {len(dstv)} DStv channels with {MAX_WORKERS} workers...")
+    # --- 1. Check current checkable DStv channels ---
     working, dead = [], []
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
-        futures = {pool.submit(check_channel, ch): ch for ch in dstv}
-        for i, fut in enumerate(as_completed(futures), 1):
-            ch, ok = fut.result()
-            print(f"[{i:>3}/{len(dstv)}] {'OK  ' if ok else 'DEAD'} {ch.get('name','?')}")
-            (working if ok else dead).append(ch)
+    if dstv_checkable:
+        print(f"\nChecking {len(dstv_checkable)} DStv channels with {MAX_WORKERS} workers...")
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+            futures = {pool.submit(check_channel, ch): ch for ch in dstv_checkable}
+            for i, fut in enumerate(as_completed(futures), 1):
+                ch, ok = fut.result()
+                print(f"[{i:>3}/{len(dstv_checkable)}] {'OK  ' if ok else 'DEAD'} {ch.get('name','?')}")
+                (working if ok else dead).append(ch)
 
-    # Preserve original DStv order
+    # Preserve original order
     working_urls = {c.get("streamUrl") for c in working}
-    ordered_working_dstv = [c for c in dstv if c.get("streamUrl") in working_urls]
+    ordered_working_dstv = [c for c in dstv_checkable if c.get("streamUrl") in working_urls]
 
-    # --- 2. Merge dead entries into known_dead.json ---
+    # --- 2. Merge dead entries into known_dead.json (exclude protected) ---
     existing_dead = load_json_list(DEAD_FILE)
     merged_dead = {
         c["streamUrl"]: c
         for c in existing_dead
-        if is_dstv(c) and "streamUrl" in c
+        if is_dstv(c) and not is_protected(c) and "streamUrl" in c
     }
     for c in dead:
         if "streamUrl" in c:
             merged_dead[c["streamUrl"]] = c
 
-    # --- 3. Re-check previously dead DStv channels ---
+    # --- 3. Re-check previously dead DStv channels (never protected) ---
     live_urls = {c.get("streamUrl") for c in ordered_working_dstv}
     candidates = [c for c in merged_dead.values() if c["streamUrl"] not in live_urls]
 
@@ -154,27 +167,31 @@ def main() -> int:
         for ch in recovered:
             print(f"RECOVERED: {ch.get('name')}")
 
-    # --- 4. Rebuild hugftre.json: non-DStv + working + recovered DStv ---
-    #    Preserve original slot of each DStv channel where possible.
-    dstv_final_by_url = {}
-    for c in ordered_working_dstv + recovered:
-        dstv_final_by_url[c["streamUrl"]] = c
+    # --- 4. Rebuild hugftre.json preserving original slot ---
+    # Protected + working + recovered are all kept.
+    keep_by_url = {}
+    for c in dstv_protected + ordered_working_dstv + recovered:
+        keep_by_url[c["streamUrl"]] = c
 
     final_channels = []
-    seen_dstv_urls = set()
+    seen_kept_urls = set()
     for c in channels:
         if is_dstv(c):
             url = c.get("streamUrl")
-            if url in dstv_final_by_url:
-                final_channels.append(dstv_final_by_url[url])
-                seen_dstv_urls.add(url)
+            if is_protected(c):
+                # Always keep, even if URL wasn't in keep_by_url (defensive)
+                final_channels.append(c)
+                seen_kept_urls.add(url)
+            elif url in keep_by_url:
+                final_channels.append(keep_by_url[url])
+                seen_kept_urls.add(url)
             # else: dropped
         else:
             final_channels.append(c)
 
-    # Append any recovered DStv channels that weren't in the original file
-    for url, c in dstv_final_by_url.items():
-        if url not in seen_dstv_urls:
+    # Append any recovered DStv channels not already present
+    for url, c in keep_by_url.items():
+        if url not in seen_kept_urls:
             final_channels.append(c)
 
     # --- 5. Persist ---
@@ -183,7 +200,8 @@ def main() -> int:
 
     print(
         f"\nDone: {len(ordered_working_dstv)} DStv kept, "
-        f"{len(dead)} removed, {len(recovered)} recovered."
+        f"{len(dead)} removed, {len(recovered)} recovered, "
+        f"{len(dstv_protected)} protected (bobtv)."
     )
     print(f"Non-DStv channels untouched: {len(non_dstv)}")
     return 0

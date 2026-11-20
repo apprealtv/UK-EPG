@@ -1,4 +1,12 @@
 [
+  
+  {
+    "channel_id": "",
+    "name": "Comedy Central",
+    "streamUrl": "http://line.znn8.xyz/live/12PUBV/HD4FGR/1170580.m3u8",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4056.png",
+    "category": "UK"
+  },
   {
     "channel_id": "ITV1.HD.uk",
     "name": "ITV 1 UK",
@@ -137,6 +145,20 @@
     "name": "TNT SPORTS 4 UK",
     "streamUrl": "http://line.znn8.xyz/live/12PUBV/HD4FGR/1311902.m3u8",
     "logo": "https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png",
+    "category": "UK"
+  },
+  {
+    "channel_id": "",
+    "name": "Premier Sports 1",
+    "streamUrl": "http://line.znn8.xyz/live/12PUBV/HD4FGR/833946.m3u8",
+    "logo": "https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png",
+    "category": "UK"
+  },
+  {
+    "channel_id": "",
+    "name": "Premier Sports 2",
+    "streamUrl": "http://line.znn8.xyz/live/12PUBV/HD4FGR/833945.m3u8",
+    "logo": "https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png",
     "category": "UK"
   },
   {

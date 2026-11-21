@@ -427,6 +427,13 @@
     "category": "Local"
   },
   {
+    "channel_id": "201.dstv_com",
+    "name": "SS Grandstand",
+    "streamUrl": "http://amazing-prada.xyz:8080/live/Trial/Trial123/56764.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png",
+    "category": "Sports"
+  },
+  {
     "channel_id": "200.dstv_com",
     "name": "SS Blits",
     "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102638.m3u8",

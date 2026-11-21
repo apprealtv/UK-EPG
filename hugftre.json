@@ -537,5 +537,19 @@
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/118032.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WWE.png",
     "category": "Sports"
+  },
+  {
+    "channel_id": "107.dstv_com",
+    "name": "M Stars",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734834.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "112.dstv_com",
+    "name": "Studio Universal",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734862.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SUH.png",
+    "category": "Mzansi"
   }
 ]

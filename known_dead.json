@@ -1,12 +1,5 @@
 [
   {
-    "channel_id": "182.dstv_com",
-    "name": "NatGeo Wild",
-    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
-    "category": "Documentary"
-  },
-  {
     "channel_id": "303.dstv_com",
     "name": "Disney Channel",
     "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
@@ -21,25 +14,18 @@
     "category": "Documentary"
   },
   {
+    "channel_id": "182.dstv_com",
+    "name": "NatGeo Wild",
+    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
+    "category": "Documentary"
+  },
+  {
     "channel_id": "342.dstv_com",
     "name": "Day Star",
     "streamUrl": "https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/ApFvejWjRVUzPbyYzS8d9g/1776816000/master_mpegts.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DW5.png",
     "category": "Religious"
-  },
-  {
-    "channel_id": "145.dstv_com",
-    "name": "kykNET & Kie",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391802.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K30.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "203.dstv_com",
-    "name": "SS Premier League",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102642.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png",
-    "category": "Sports"
   },
   {
     "channel_id": "144.dstv_com",
@@ -49,52 +35,10 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "140.dstv_com",
-    "name": "E Movies Extra",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391887.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E05.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "212.dstv_com",
-    "name": "SS Cricket",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102647.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png",
+    "channel_id": "207.dstv_com",
+    "name": "SS Kickoff",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102646.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png",
     "category": "Sports"
-  },
-  {
-    "channel_id": "138.dstv_com",
-    "name": "E Movies",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391886.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E03.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "194.dstv_com",
-    "name": "E TV",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391896.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDE.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "209.dstv_com",
-    "name": "SS Action",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535549.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "195.dstv_com",
-    "name": "E TV Extra",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391897.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E01.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "108.dstv_com",
-    "name": "M Legends",
-    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734835.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png",
-    "category": "Mzansi"
   }
 ]

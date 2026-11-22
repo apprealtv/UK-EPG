@@ -1,17 +1,17 @@
 [
   {
-    "channel_id": "303.dstv_com",
-    "name": "Disney Channel",
-    "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
-    "category": "Kids"
-  },
-  {
     "channel_id": "182.dstv_com",
     "name": "NatGeo Wild",
     "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
     "category": "Documentary"
+  },
+  {
+    "channel_id": "303.dstv_com",
+    "name": "Disney Channel",
+    "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
+    "category": "Kids"
   },
   {
     "channel_id": "181.dstv_com",
@@ -28,18 +28,11 @@
     "category": "Religious"
   },
   {
-    "channel_id": "140.dstv_com",
-    "name": "E Movies Extra",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391887.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E05.png",
+    "channel_id": "145.dstv_com",
+    "name": "kykNET & Kie",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391802.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K30.png",
     "category": "Mzansi"
-  },
-  {
-    "channel_id": "212.dstv_com",
-    "name": "SS Cricket",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102647.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png",
-    "category": "Sports"
   },
   {
     "channel_id": "203.dstv_com",
@@ -56,24 +49,31 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "194.dstv_com",
-    "name": "E TV",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391896.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDE.png",
+    "channel_id": "140.dstv_com",
+    "name": "E Movies Extra",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391887.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E05.png",
     "category": "Mzansi"
   },
   {
-    "channel_id": "145.dstv_com",
-    "name": "kykNET & Kie",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391802.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K30.png",
-    "category": "Mzansi"
+    "channel_id": "212.dstv_com",
+    "name": "SS Cricket",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102647.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png",
+    "category": "Sports"
   },
   {
     "channel_id": "138.dstv_com",
     "name": "E Movies",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391886.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E03.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "194.dstv_com",
+    "name": "E TV",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391896.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDE.png",
     "category": "Mzansi"
   },
   {
@@ -88,6 +88,13 @@
     "name": "E TV Extra",
     "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391897.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E01.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "108.dstv_com",
+    "name": "M Legends",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734835.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png",
     "category": "Mzansi"
   }
 ]

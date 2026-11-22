@@ -1,9 +1,9 @@
 [
   {
-    "channel_id": "181.dstv_com",
-    "name": "National Geographic Channel",
-    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
+    "channel_id": "182.dstv_com",
+    "name": "NatGeo Wild",
+    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
     "category": "Documentary"
   },
   {
@@ -14,10 +14,10 @@
     "category": "Kids"
   },
   {
-    "channel_id": "182.dstv_com",
-    "name": "NatGeo Wild",
-    "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png",
+    "channel_id": "181.dstv_com",
+    "name": "National Geographic Channel",
+    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
     "category": "Documentary"
   },
   {
@@ -26,5 +26,40 @@
     "streamUrl": "https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/ApFvejWjRVUzPbyYzS8d9g/1776816000/master_mpegts.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DW5.png",
     "category": "Religious"
+  },
+  {
+    "channel_id": "163.dstv_com",
+    "name": "Mzansi WETHU",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391813.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "147.dstv_com",
+    "name": "VIA",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391804.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/VHD.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "403.dstv_com",
+    "name": "eNCA",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391863.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ENH.png",
+    "category": "News"
+  },
+  {
+    "channel_id": "200.dstv_com",
+    "name": "SS Blits",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102638.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",
+    "category": "Sports"
+  },
+  {
+    "channel_id": "112.dstv_com",
+    "name": "Studio Universal",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734862.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SUH.png",
+    "category": "Mzansi"
   }
 ]

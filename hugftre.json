@@ -595,13 +595,6 @@
     "category": "Sports"
   },
   {
-    "channel_id": "163.dstv_com",
-    "name": "Mzansi WETHU",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391813.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png",
-    "category": "Mzansi"
-  },
-  {
     "channel_id": "147.dstv_com",
     "name": "VIA",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391804.m3u8",
@@ -614,5 +607,12 @@
     "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734862.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SUH.png",
     "category": "Mzansi"
+  },
+  {
+    "channel_id": "207.dstv_com",
+    "name": "SS Kickoff",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102646.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png",
+    "category": "Sports"
   }
 ]

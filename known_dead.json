@@ -1,17 +1,17 @@
 [
   {
-    "channel_id": "181.dstv_com",
-    "name": "National Geographic Channel",
-    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
-    "category": "Documentary"
-  },
-  {
     "channel_id": "303.dstv_com",
     "name": "Disney Channel",
     "streamUrl": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png",
     "category": "Kids"
+  },
+  {
+    "channel_id": "181.dstv_com",
+    "name": "National Geographic Channel",
+    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
+    "category": "Documentary"
   },
   {
     "channel_id": "182.dstv_com",
@@ -28,17 +28,31 @@
     "category": "Religious"
   },
   {
-    "channel_id": "206.dstv_com",
-    "name": "SS Football Plus",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102644.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png",
+    "channel_id": "403.dstv_com",
+    "name": "eNCA",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391863.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ENH.png",
+    "category": "News"
+  },
+  {
+    "channel_id": "200.dstv_com",
+    "name": "SS Blits",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102638.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",
     "category": "Sports"
   },
   {
-    "channel_id": "163.dstv_com",
-    "name": "Mzansi WETHU",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391813.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png",
+    "channel_id": "112.dstv_com",
+    "name": "Studio Universal",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734862.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SUH.png",
     "category": "Mzansi"
+  },
+  {
+    "channel_id": "215.dstv_com",
+    "name": "SS Motorsport",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102653.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png",
+    "category": "Sports"
   }
 ]

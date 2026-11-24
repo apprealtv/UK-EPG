@@ -469,13 +469,6 @@
     "category": "Sports"
   },
   {
-    "channel_id": "161.dstv_com",
-    "name": "Mzansi Magic",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391811.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZH.png",
-    "category": "Mzansi"
-  },
-  {
     "channel_id": "157.dstv_com",
     "name": "Moja Love",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391810.m3u8",
@@ -586,5 +579,47 @@
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391863.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ENH.png",
     "category": "News"
+  },
+  {
+    "channel_id": "209.dstv_com",
+    "name": "SS Action",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535549.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png",
+    "category": "Sports"
+  },
+  {
+    "channel_id": "200.dstv_com",
+    "name": "SS Blits",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102638.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",
+    "category": "Sports"
+  },
+  {
+    "channel_id": "203.dstv_com",
+    "name": "SS Premier League",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102642.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png",
+    "category": "Sports"
+  },
+  {
+    "channel_id": "112.dstv_com",
+    "name": "Studio Universal",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734862.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SUH.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "108.dstv_com",
+    "name": "M Legends",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734835.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "107.dstv_com",
+    "name": "M Stars",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734834.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png",
+    "category": "Mzansi"
   }
 ]

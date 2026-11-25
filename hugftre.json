@@ -420,31 +420,10 @@
     "category": "Local"
   },
   {
-    "channel_id": "201.dstv_com",
-    "name": "SS Grandstand",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535551.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "202.dstv_com",
-    "name": "SS PSL",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535550.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png",
-    "category": "Sports"
-  },
-  {
     "channel_id": "205.dstv_com",
     "name": "SS Football",
     "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102643.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "211.dstv_com",
-    "name": "SS Rugby",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102648.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png",
     "category": "Sports"
   },
   {
@@ -473,13 +452,6 @@
     "name": "Moja Love",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391810.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MOH.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "101.dstv_com",
-    "name": "M-Net",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/391774.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png",
     "category": "Mzansi"
   },
   {
@@ -518,24 +490,10 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "212.dstv_com",
-    "name": "SS Cricket",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102647.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png",
-    "category": "Sports"
-  },
-  {
     "channel_id": "140.dstv_com",
     "name": "E Movies Extra",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391887.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E05.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "144.dstv_com",
-    "name": "KykNet",
-    "streamUrl": "http://line.krishkaz.com/live/GabrielPetrozziello/CD1551/1458484.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KHD.png",
     "category": "Mzansi"
   },
   {
@@ -620,6 +578,13 @@
     "name": "M Stars",
     "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734834.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "161.dstv_com",
+    "name": "Mzansi Magic",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391811.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZH.png",
     "category": "Mzansi"
   }
 ]

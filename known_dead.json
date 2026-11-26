@@ -35,41 +35,6 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "163.dstv_com",
-    "name": "Mzansi WETHU",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391813.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "145.dstv_com",
-    "name": "kykNET & Kie",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391802.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K30.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "144.dstv_com",
-    "name": "KykNet",
-    "streamUrl": "http://line.krishkaz.com/live/GabrielPetrozziello/CD1551/1458484.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KHD.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "194.dstv_com",
-    "name": "E TV",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391896.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDE.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "195.dstv_com",
-    "name": "E TV Extra",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391897.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E01.png",
-    "category": "Mzansi"
-  },
-  {
     "channel_id": "140.dstv_com",
     "name": "E Movies Extra",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391887.m3u8",
@@ -84,10 +49,17 @@
     "category": "Sports"
   },
   {
-    "channel_id": "211.dstv_com",
-    "name": "SS Rugby",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102648.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png",
-    "category": "Sports"
+    "channel_id": "195.dstv_com",
+    "name": "E TV Extra",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391897.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E01.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "194.dstv_com",
+    "name": "E TV",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391896.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDE.png",
+    "category": "Mzansi"
   }
 ]

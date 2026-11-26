@@ -483,13 +483,6 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "145.dstv_com",
-    "name": "kykNET & Kie",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391802.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K30.png",
-    "category": "Mzansi"
-  },
-  {
     "channel_id": "140.dstv_com",
     "name": "E Movies Extra",
     "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391887.m3u8",
@@ -509,13 +502,6 @@
     "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102646.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png",
     "category": "Sports"
-  },
-  {
-    "channel_id": "163.dstv_com",
-    "name": "Mzansi WETHU",
-    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391813.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png",
-    "category": "Mzansi"
   },
   {
     "channel_id": "206.dstv_com",
@@ -543,13 +529,6 @@
     "name": "SS Blits",
     "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102638.m3u8",
     "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "203.dstv_com",
-    "name": "SS Premier League",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102642.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png",
     "category": "Sports"
   },
   {
@@ -581,20 +560,6 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "101.dstv_com",
-    "name": "M-Net",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/391774.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png",
-    "category": "Mzansi"
-  },
-  {
-    "channel_id": "201.dstv_com",
-    "name": "SS Grandstand",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535551.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png",
-    "category": "Sports"
-  },
-  {
     "channel_id": "211.dstv_com",
     "name": "SS Rugby",
     "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102648.m3u8",
@@ -609,10 +574,10 @@
     "category": "Sports"
   },
   {
-    "channel_id": "144.dstv_com",
-    "name": "KykNet",
-    "streamUrl": "http://line.krishkaz.com/live/GabrielPetrozziello/CD1551/1458484.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KHD.png",
-    "category": "Mzansi"
+    "channel_id": "403.dstv_com",
+    "name": "eNCA",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391863.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ENH.png",
+    "category": "News"
   }
 ]

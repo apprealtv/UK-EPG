@@ -1,12 +1,5 @@
 [
   {
-    "channel_id": "181.dstv_com",
-    "name": "National Geographic Channel",
-    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
-    "category": "Documentary"
-  },
-  {
     "channel_id": "182.dstv_com",
     "name": "NatGeo Wild",
     "streamUrl": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
@@ -21,6 +14,13 @@
     "category": "Kids"
   },
   {
+    "channel_id": "181.dstv_com",
+    "name": "National Geographic Channel",
+    "streamUrl": "http://40.160.24.53/NAT_GEO/index.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png",
+    "category": "Documentary"
+  },
+  {
     "channel_id": "342.dstv_com",
     "name": "Day Star",
     "streamUrl": "https://hls-live-media-gc.cdn01.net/mpegts/232076_2222904/ApFvejWjRVUzPbyYzS8d9g/1776816000/master_mpegts.m3u8",
@@ -28,31 +28,10 @@
     "category": "Religious"
   },
   {
-    "channel_id": "212.dstv_com",
-    "name": "SS Cricket",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102647.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "203.dstv_com",
-    "name": "SS Premier League",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102642.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png",
-    "category": "Sports"
-  },
-  {
-    "channel_id": "144.dstv_com",
-    "name": "KykNet",
-    "streamUrl": "http://line.krishkaz.com/live/GabrielPetrozziello/CD1551/1458484.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KHD.png",
+    "channel_id": "145.dstv_com",
+    "name": "kykNET & Kie",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938A/391802.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K30.png",
     "category": "Mzansi"
-  },
-  {
-    "channel_id": "201.dstv_com",
-    "name": "SS Grandstand",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535551.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png",
-    "category": "Sports"
   }
 ]

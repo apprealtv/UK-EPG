@@ -553,24 +553,52 @@
     "category": "Mzansi"
   },
   {
-    "channel_id": "203.dstv_com",
-    "name": "SS Premier League",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102642.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png",
+    "channel_id": "138.dstv_com",
+    "name": "E Movies",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391886.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E03.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "140.dstv_com",
+    "name": "E Movies Extra",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391887.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E05.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "209.dstv_com",
+    "name": "SS Action",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535549.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png",
     "category": "Sports"
   },
   {
-    "channel_id": "201.dstv_com",
-    "name": "SS Grandstand",
-    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/535551.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png",
+    "channel_id": "207.dstv_com",
+    "name": "SS Kickoff",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102646.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png",
     "category": "Sports"
   },
   {
-    "channel_id": "144.dstv_com",
-    "name": "KykNet",
-    "streamUrl": "http://line.krishkaz.com/live/GabrielPetrozziello/CD1551/1458484.m3u8",
-    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KHD.png",
+    "channel_id": "157.dstv_com",
+    "name": "Moja Love",
+    "streamUrl": "http://line.zee-ott.xyz/live/fatmirberishaiptv/F368D6/391810.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MOH.png",
+    "category": "Mzansi"
+  },
+  {
+    "channel_id": "206.dstv_com",
+    "name": "SS Football Plus",
+    "streamUrl": "http://line.tmpes.com/live/Omar022025/A655938a/102644.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png",
+    "category": "Sports"
+  },
+  {
+    "channel_id": "107.dstv_com",
+    "name": "M Stars",
+    "streamUrl": "http://9paday.wtf:8080/live/mallenmufc94/jsykptp/2734834.m3u8",
+    "logo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png",
     "category": "Mzansi"
   }
 ]
